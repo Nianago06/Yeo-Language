@@ -75,8 +75,7 @@ Division, duality, contrast.
 Also associated with “upper,” “split,” or “comparison.”
 
 Examples:  
-- **tuno** (“strong”)  
-- **tuta** (“to divide”)
+- **tuno** (“strong”)
 
 ---
 
@@ -86,7 +85,6 @@ Covers meanings such as “grasp,” “make small,” “adjust.”
 
 Examples:  
 - **tano** (“to grasp / to speak / to make small”)  
-- **tata** (“to adjust”)
 
 ---
 
