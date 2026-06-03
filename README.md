@@ -1,160 +1,146 @@
-# Yeo-Language (十の字 / Tō-no-ji / Nōsa)
-*A 10‑word cosmological language shaped by “縁 (nu)”*
+# Yeo-Language (十の字 / Nosa / Tonoji)
+*A project aiming to create the simplest possible language using only 10 root words*
 
-**Yeo-Language**—also known as **Nosa** or **Tonoji**—is an extreme minimalist constructed language built from only **ten root words**.  
-Despite its simplicity, it encodes a complete worldview: cosmology, mythology, ontology, and a unique philosophy of life and death.
+Yeo-Language (Tonoji / Nosa) is an extremely minimal constructed language  
+built from **only ten root words**.
 
-The language is designed not as a full communicative system, but as a tool for:
-
-- reorganizing thought  
-- perceiving the world through a different cognitive lens  
-- expressing existence through the concept of **縁 (nu)**  
-- exploring a mythic cosmology with only ten foundations  
-
-Meaning arises through **context, gesture, sound, and shared understanding**, not through vocabulary size.
+It is designed to function without complex grammar or large vocabulary,  
+with the goal of creating **the simplest possible language**.
 
 ---
 
-## 🌱 Core Concept
+# 1. Purpose of the Language
 
-Yeo-Language is built on a single metaphysical idea:
+Yeo-Language is created with the following goals:
 
-> **The world is formed by the traces of gods, called 縁 (nu).  
-> Living beings (ye) consume nu to survive and to approach divinity.**
+- **To create the simplest possible language**
+- **To provide the shortest path toward multilingual ability**
+  - Reducing the cognitive load of language learning
+- **To help organize thought**
+  - Reducing concepts to ten roots clarifies mental structure
+- **To offer new perspectives through the use of a non-native language**
+  - Changing language changes how the world is perceived
+- **To be enjoyable as a creative, playful, and experimental system**
 
-Key principles:
-
-- The world is shaped by the wandering paths of gods  
-- These paths become **nu**, the “edge” or “trace” that forms reality  
-- Plants (nu) grow along these traces  
-- Animals (ye) live by consuming nu  
-- Humans (yeo) inherit nu from ancestors  
-- Death is either:
-  - the moment one has gathered enough nu to return to the gods, or  
-  - the act of passing nu to descendants  
-
-Language itself must **not** attempt to name or define what lies beyond human understanding.  
-Thus, certain words are forbidden.
+This language does not aim to promote any philosophy or ideology.  
+It is a project for exploring and enjoying the nature of language itself.
 
 ---
 
-## 🔤 The Ten Words
+# 2. Mythology and Cultural Background
 
-Yeo-Language consists of exactly **ten roots**:
+Yeo-Language includes  
+**mythological and cultural settings that support the meanings of roots such as  
+nu (edge / trace) and ye (life).**
+
+These settings serve as:
+
+- a backbone for maintaining internal consistency  
+- optional worldbuilding for users who want to enjoy the language more deeply  
+
+They are **not** the central philosophy of the language.
+
+For details, see **/lore**.
+
+---
+
+# 3. The Ten Root Words
+
+Yeo-Language consists of the following ten roots:
 
 o, sa, a, pa, tu, ta, nu, ye, no, wa
 
-They are grouped into four conceptual domains.
+These were chosen simply because **ten** is a convenient number.  
+They are not intended to represent the “smallest structure of the world.”
 
-### 1. Subjective Cognition — *o / sa / a*
-- **o** — inner self, what only the self can know  
-- **sa** — what the hand can reach  
-- **a** — what the eye can see but the hand cannot reach; the unknown  
-
-### 2. Structure of the World — *tu / pa / ta*
-- **tu** — above  
-- **ta** — below  
-- **pa** — harmony, water  
-  - *pa is mythologically “born later,” and therefore has lower priority*
-
-### 3. The World Itself — *nu / ye*
-- **nu** — edge, trace of gods, plant-life  
-- **ye** — animal-life, survival, sin  
-
-### 4. Linguistic Refinement — *no / wa*
-- **no** — relation, genitive, comparison  
-- **wa** — topic, purpose, discourse flow  
+The meanings of each root are listed in vocabulary.md.
 
 ---
 
-## 🌀 Mythology
+# 4. Basic Grammar
 
-In the cosmology of Yeo-Language:
+Yeo-Language has only **two fundamental sentence structures**.
 
-- A **Sky God** and an **Earth God** wander the universe  
-- Their paths become **nu**, the edges that shape reality  
-- Where their nu overlaps, **Earth** is formed  
-- At the strongest intersection of their nu, a **God of Harmony (pa)** is born  
-- This god places water between sky and earth, stabilizing the world  
+## ■ A o B  
+A is B (nominal sentence)
 
-Plants grow along nu:  
-- roots toward the Earth God  
-- branches toward the Sky God  
+Example:
+yeo o ye
+“Humans are animals.”
 
-Animals (ye) consume nu to survive and to approach the gods.
+## ■ A sa B  
+A does B (verbal sentence)
 
-This mythology directly shapes the meanings of **nu**, **ye**, and **pa**,  
-and explains why **pa** has lower grammatical priority.
-
----
-
-## ⚖ Forbidden Words
-
-Yeo-Language prohibits the creation of:
-
-- words that directly represent gods  
-- words that attempt to define unknowable entities  
-- words that surpass nu or ye in ontological scope  
-
-Human language must not “fix” what lies beyond human cognition.
+Example:
+yeo sa tano
+“Humans speak / grasp / make small.”
 
 ---
 
-## 🔧 Derivation (Minimal Rules)
+# 5. The Role of *wa* (Important)
 
-Yeo-Language avoids complex derivational systems.  
-Only two natural simplifications occur:
+**wa is a particle that marks the subject politely or clearly.**  
+It makes a sentence more formal or easier to understand.
 
-1. **In frequent expressions, the part after *no* may be omitted**  
-   (as long as meaning remains clear)
+Example:
+sa o tuno
+“You are strong.” (casual)
 
-2. **If the priority system makes the relationship unambiguous,  
-   the genitive *no* may be omitted**
+wa sa o tuno
+“You are strong.” (polite / clear)
+
+wa can also appear at the beginning of a sentence as a **conjunction**.
+
+- **waa** — sequential (“and then”)  
+- **waye-** — contrast (“however”)  
+
+When connecting clauses *within* a single sentence,  
+the language uses **noano** for a smooth sequential relation.
+
+Example:
+yeo o ye noano yeo o tuno
+“Humans are animals, and therefore strong.”
+
+
+---
+
+# 6. The Role of *no*
+
+*no* is the central relational particle of Yeo-Language.  
+It expresses:
+
+- possession  
+- comparison  
+- parallel  
+- selection  
+- addition  
+- limitation  
+- sequential relation (noano)  
+- numeral formation  
 
 Examples:
-
-- *ye no o* → **yeo** (“human”)  
-- *nu no sa* → **nusa** (“ground; roots and branches”)  
-
----
-
-## 🌞 Representative Derived Words
-
-These examples illustrate how meaning emerges from the ten roots:
-
-- **Tuye** — bird, male, wing  
-- **Nusa** — ground; roots and branches  
-- **Nuye** — the knowable world; Earth; yin–yang  
-- **Yepa** — fish; female  
-- **Tuno** — great, large, male, high  
-- **Tano** — small, low, childlike  
-- **Tunu** — sky, star, sun, moon  
-- **Yeo** — human; sense; food; mouth  
-
-Special cosmological compounds:
-
-- **tunu** — “upper nu,” the Sky God’s trace  
-- **tanu** — “lower nu,” the Earth God’s trace  
+ye no o → yeo (“human”)
+nu no sa → nusa (“ground”)
 
 ---
 
-## 🔊 Phonology
+# 7. Pitch
 
-Yeo-Language uses **pitch (○●)** to distinguish meaning.  
-Detailed phonology will be documented separately.
-
----
-
-## 📚 Documentation
-
-- `/docs/overview.md` — cosmology and philosophy  
-- `/docs/vocabulary.md` — the ten roots and their conceptual fields  
-- `/docs/grammar.md` — structure, particles, and syntax  
-- `/docs/examples.md` — example sentences  
-- `/docs/design_philosophy.md` — linguistic and metaphysical design  
+Yeo-Language uses **pitch** to distinguish meaning.  
+Details are described in phonology.md.
 
 ---
 
-## 📄 License
+# 8. Position of the Language
 
-(Choose one, e.g. CC BY-SA 4.0)
+Yeo-Language is an experimental and playful project designed for:
+
+- minimal vocabulary  
+- minimal grammar  
+- a foundation for multilingual learning  
+- a tool for organizing thought  
+- creative enjoyment  
+
+It does not promote deep ideology or religious meaning.  
+Mythology and cultural settings exist only as **optional additions**  
+for those who want to explore them.
