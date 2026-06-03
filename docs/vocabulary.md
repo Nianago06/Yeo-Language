@@ -1,282 +1,163 @@
-# Vocabulary — The Ten Roots of Yeo-Language (十の字 / Nosa / Tonoji)
+# Vocabulary of Yeo-Language (vocabulary.md)
 
-Yeo-Language is built from **ten ontological roots**.  
-All meaning in the language emerges from these ten primitives.
+Yeo-Language (Nosa / Tonoji) is an extremely minimal constructed language  
+consisting of only **ten root words**.
 
-Pitch distinguishes meaning, but pitch notation is not shown here.
-
----
-
-# 1. o  
-**Semantic field:**  
-sense, absorption, beginning, end (past/future), inside, self, “I”, center, core, nounhood, thought, cognition, collection, human, knowledge, gathering, grasping, naming
-
-**Grammatical roles:**  
-- article marking nouns  
-- particle meaning “limitation / equals”  
-- past marker
-
-**Representative derived words:**  
-- O-sa — “we”  
-- Oo — “one”  
-- Oo-no — “ten”  
-- O-no-ye — “meat”  
-- O-no-yeo — “bone”  
-- O-no-tuyesa — “nose”  
-- O-no-tunu — “evening / east”
-
-**Cognitive axis position:**  
-inner self
-
-**Priority:**  
-o > sa > a > (pa)
+Root words do not have fixed parts of speech.  
+Their meaning is determined by context and by how they combine with other words.
 
 ---
 
-# 2. sa  
-**Semantic field:**  
-near, general, common sense, “you”, surface, informing, “this”, output, emergence, here, limbs, voice, sound, expansion
+# 1. List of Root Words (10 words)
 
-**Grammatical roles:**  
-- unit (arm length)  
-- article marking verbs  
-- nominative  
-- present / continuous  
-- additive (colloquial)
-
-**Representative derived words:**  
-- Sano — horizontal / parallel to ground  
-- Sa-no — hair / feather  
-- Sa-no-tusa — hair / feather  
-- Sa-no-tunu — “daytime / sunlight / time”  
-- Sa-no-tu — “hand”  
-- Sa-no-ta — “foot”  
-- Sa-no-tano — “language”  
-- Sa-no-ye — “body”
-
-**Cognitive axis position:**  
-reachable world
-
-**Priority:**  
-o > sa > a > (pa)
+| Root | Semantic Field | Category | Notes |
+|------|----------------|----------|-------|
+| **o** | Noun phrase marking, definiteness, emphasis | Positioning | An article used to form noun phrases. |
+| **sa** | Action, change, effect | Movement | Core verb marker |
+| **a** | Indication, focus, emphasis | Direction | Highlights or specifies |
+| **pa** | Harmony, balance, mediation | Between | In mythology: the “god of harmony” |
+| **tu** | Division, duality, contrast | Binary | Basis for “upper / split / compare” |
+| **ta** | Shape, manipulation, control | Form | “Grasp / make small / adjust” |
+| **nu** | Trace, connection, path | Continuity | In mythology: “the gods’ tracks” |
+| **ye** | Life, movement, desire | Animacy | In mythology: “life that consumes nu” |
+| **no** | Relation, connection, logic | Linking | Central relational word |
+| **wa** | Topic, politeness, presentation | Context | Marks topic and politeness |
 
 ---
 
-# 3. a  
-**Semantic field:**  
-far, exception, non-common, outside, release, beginning (future), end, future, unknown, causing absorption, “that”, “over there”, secret, separation, diffusion, effect, entrusting
+# 2. Detailed Explanation of Each Root
 
-**Grammatical roles:**  
-- future marker
+## ■ o  
+A grammatical article used to form noun phrases.  
+When a noun must appear in a verbal position, **o** is required to convert it into a noun phrase.
 
-**Representative derived words:**  
-- Ao — “three”  
-- Aa — “four / before”  
-- Ano — “west”  
-- A-no — “five”  
-- A-no-o — “left”  
-- A-no-o — “seven”  
-- A-no-a — “six”  
-- A-no-sa — “finger”  
-- A-no-tunu — “dawn / west”  
-- A-no-nu — “tool”
-
-**Cognitive axis position:**  
-visible but unreachable / unknown
-
-**Priority:**  
-o > sa > a > (pa)
-
----
-
-# 4. pa  
-**Semantic field:**  
-harmony, water, synthesis
-
-**Representative derived words:**  
-- Pa-pa — “parent / great woman / mother”  
-- Pano — “woman / mother”  
-- Pano (adj.) — “female”  
-- Pano-pa — “great woman”  
-- Pano-yeo — “woman (human)”  
-- Pa-no-yeo — “blood”
-
-**Structural axis position:**  
-harmonizing trace (later-born)
-
-**Priority:**  
-exceptionally low (mythological reason)
-
----
-
-# 5. tu  
-**Semantic field:**  
-above
-
-**Representative derived words:**  
-- Tuo — “father / elder male”  
-- Tusa — “hand / arm / long / tail”  
-- Tusano — “palm / wing”  
-- Tusa-no-tu — “feather”  
-- Tu-tu — “parent / great man”  
-- Tunu — “sky / star / sun / moon / upper plant”  
-- Tunuo — “evening”  
-- Tunusa — “fire (artificial) / light / day / time”  
-- Tunusano — “leaf”  
-- Tunupa — “hot water”  
-- Tuye — “bird / male / wing”  
-- Tuyeo — “man”  
-- Tuyesa — “head / insect / reptile”
-
-**Structural axis position:**  
-above
-
-**Priority:**  
-tu > ta > (pa)
-
----
-
-# 6. ta  
-**Semantic field:**  
-below
-
-**Representative derived words:**  
-- Tao — “child”  
-- Tasa — “leg / long”  
-- Tasano — “foot / voice / language”  
-- Tanu — “soil”  
-- Taye — “egg”  
-- Tayeo — “child”  
-- Tano — “to make small / grasp”  
-- Tano (adj.) — “small / childlike / low / disadvantageous”  
-- Tano-sano — “vertical length / height”  
-- Tano-tunu — “star”  
-- Tano-tuye — “insect / small bird”  
-- Tano-yeo — “child (human)”  
-- Ta-no-tuyesa — “mouth”
-
-**Structural axis position:**  
-below
-
-**Priority:**  
-tu > ta > (pa)
-
----
-
-# 7. nu  
-**Semantic field:**  
-edge, trace, blessing, plant, tree
-
-**Representative derived words:**  
-- Nusa — “ground / roots and branches”  
-- Nua — “tool / to make”  
-- Nua-no-o — “writing tool”  
-- Nua-no-ye — “weapon”  
-- Nupa — “water”  
-- Nu-nu — “forest”  
-- Nuye — “the knowable world / Earth / yin–yang”  
-- Nuyeo — “holy person”  
-- Nuasa — “habitat”  
-- Nuaa — “weapon / hunting”  
-- Nuno — “thankful”  
-- Nu-no-tu — “sky / sun”  
-- Nuno-yeo — “holy person”
-
-**Existential axis position:**  
-trace / plant
-
-**Priority:**  
-nu > ye
-
----
-
-# 8. ye  
-**Semantic field:**  
-animal, sin, life activity  
-(also a **negation particle**)
-
-**Representative derived words:**  
-- Yeo — “human / sense / food / mouth”  
-- Ye-no-o — “human”  
-- Yeo-no-a — “teacher / preacher”  
-- Yesa — “body / skin”  
-- Yesa-no-tu — “head”  
-- Yepa — “fish / female”  
-- Yeye — “death”  
-- Yeno — “meaningless killing”  
-- Ye-no-o — “food”  
-- Yeo-no-yepa — “woman”  
-- Yeo-no-tuye — “man”
-
-**Existential axis position:**  
-life / animal
-
-**Priority:**  
-nu > ye
-
----
-
-# 9. no  
-**Semantic field:**  
-relation, genitive, comparison, parallel, selection, addition, limitation, sequence, number formation
-
-**Grammatical roles:**  
-- adjective marker  
-- genitive  
-- parallel / comparison  
-- object / duration  
-- parallel actions  
-- conjunction  
-- selection  
-- grouping  
-- addition  
-- limitation / sequence  
-- numeral “ten”
-
-**Representative derived words:**  
-- Ono- — “name”  
-- No-o-sa — “cross (language)”  
-
-**Priority:**  
-auxiliary (no priority class)
-
----
-
-# 10. wa  
-**Semantic field:**  
-topic, beginning of sentence, purpose, contrast
-
-**Grammatical roles:**  
-- topic marker  
-- purpose  
-- contrast  
-- sequence
-
-**Representative derived words:**  
-(wa is primarily grammatical)
-
-**Priority:**  
-auxiliary (no priority class)
-
----
-
-# Derivation (Minimal Rules)
-
-Yeo-Language uses only two natural simplifications:
-
-1. **In frequent expressions, the part after *no* may be omitted**  
-2. **If priority makes the relationship unambiguous, *no* may be omitted**
+It can also emphasize a noun phrase.  
+Although **o** does not change the inherent meaning of the word it attaches to,  
+it may carry nuances similar to English **“the”**, such as specificity or definiteness.
 
 Examples:  
-- *ye no o* → **yeo**  
-- *nu no sa* → **nusa**
+- **oye** (“a living thing”)  
+- **oyeo** (“the human being”)
 
 ---
 
-# Axes Summary
+## ■ sa  
+Represents action, change, or effect.  
+The core marker for verbal sentences.
 
-- **Cognitive Axis:** o – sa – a  
-- **Structural Axis:** tu – pa – ta  
-- **Existential Axis:** nu – ye
+Examples:  
+- **sa sa** (“to speak”)  
+- **sa tuno** (“to become strong”)
 
-These form the symbolic **十 (cross)** of the language.
+---
+
+## ■ a  
+Indication, focus, emphasis.  
+Used to highlight or specify a part of the sentence.
+
+Examples:  
+- **a yeo** (“that person”)  
+- **yeo a tuno** (“the person is the *strong* one”)
+
+---
+
+## ■ pa  
+Harmony, balance, mediation.  
+In mythology, pa is the third god born between the Sky God and the Earth God.
+
+- The trace of pa becomes **water**, stabilizing the world.  
+- Because the three divine traces meet on Earth, **life gathers here**.
+
+---
+
+## ■ tu  
+Division, duality, contrast.  
+Also associated with “upper,” “split,” or “comparison.”
+
+Examples:  
+- **tuno** (“strong”)  
+- **tuta** (“to divide”)
+
+---
+
+## ■ ta  
+Shape, manipulation, control.  
+Covers meanings such as “grasp,” “make small,” “adjust.”
+
+Examples:  
+- **tano** (“to grasp / to speak / to make small”)  
+- **tata** (“to adjust”)
+
+---
+
+## ■ nu  
+Trace, connection, path.  
+In mythology, nu is the higher-dimensional track left by the gods.
+
+Examples:  
+- **nusa** (“ground”)  
+- **nuye** (“nu + animal → everything / all beings”)
+
+---
+
+## ■ ye  
+Life, movement, desire.  
+In mythology, ye is “life that consumes nu.”
+
+Examples:  
+- **yeo** (“human”)  
+- **yepa** (“fish”)
+
+---
+
+## ■ no  
+Relation, connection, logic.  
+The central mechanism for forming compound words and logical structures.
+
+Examples:  
+- **ye no tu → tuye** (“upper animal → bird”)  
+- **tano no oyeo** (“to speak to a human”)
+
+---
+
+## ■ wa  
+Topic marking, politeness, presentation.  
+Placed at the beginning of a sentence to mark the topic and add politeness.
+
+Example:  
+- **wa yeo sa sa** (“Humans speak.” / “A person speaks.”)
+
+---
+
+# 3. Principles of Word Formation (no-centered structure)
+
+Word formation in Yeo-Language is based on **no**.
+
+General pattern:
+A no oB → A-B (a relational compound)
+
+Examples:  
+- **nu no oye → nuye** (“nu + animal → everything / all beings”)  
+- **ye no tu → tuye** (“upper animal → bird”)
+
+---
+
+# 4. Representative Derived Words (Examples)
+
+| Word | Structure | Meaning |
+|------|-----------|---------|
+| **yeo** | ye no o | human |
+| **tuye** | ye no tu | bird |
+| **yepa** | ye no pa | fish |
+| **nusa** | nu no sa | ground |
+| **nuye** | nu no oye | everything / all beings |
+
+---
+
+# 5. Notes
+
+- Root words have no fixed part of speech  
+- Meaning is determined by context  
+- no forces the following word to match the grammatical role of the preceding word  
+- Therefore, noun phrases require **o**  
+- Only essential derived words are listed here  
