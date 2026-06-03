@@ -1,230 +1,126 @@
-# Overview  
-*Cosmology, Cognition, and the Philosophical Foundations of Yeo-Language (十の字 / Nosa / Tonoji)*
+# Overview and Mythological Background of Yeo-Language (十の字 / Nosa / Tonoji)
 
-Yeo-Language—also known as **Nosa** or **Tonoji**—is a minimalist constructed language built from only **ten root words**:
+Yeo-Language is an extremely minimal constructed language built from only ten root words.  
+The initial draft of the language was created by **Nianago06 around 2023**.
+
+Its goals are:
+
+- to create the simplest possible language  
+- to provide a short path toward multilingual ability  
+- to help organize thought  
+- to offer new perspectives through the use of a non-native language  
+- to be enjoyable as a creative and experimental system  
+
+Yeo-Language does not aim to promote any ideology or religious view.  
+It is a linguistic experiment focused on minimalism and clarity.
+
+---
+
+## Names
+
+- **Yeo-Language** — “yeo” means “human”.  
+- **Tonoji (十の字)** — Japanese for “ten characters”.  
+- **Nosa** — a native term meaning “language”.
+
+---
+
+## Structure of the Language
+
+Yeo-Language consists of the following ten roots:
 
 o, sa, a, pa, tu, ta, nu, ye, no, wa
 
-These ten roots are not ordinary vocabulary.  
-They are **ontological primitives** that describe how the world exists, how humans perceive it, and how life moves toward divinity.
+These roots were not chosen to represent the smallest structure of the world;  
+**ten** was simply a convenient number.
 
-This document explains the **mythology**, **world structure**, **cognitive model**, and **philosophical principles** that define the language.
+There are only two basic sentence patterns:
 
----
+- **A o B** — A is B  
+- **A sa B** — A does B  
 
-# 1. Cosmology — The World of “縁 (nu)”
-
-In the cosmology of Yeo-Language, the universe is shaped by two primordial gods:
-
-- **The Sky God**
-- **The Earth God**
-
-As they wander through the higher-dimensional world, their paths leave behind **traces**, called **縁 (nu)**.
-
-These traces form the structure of reality:
-
-- The Earth God’s nu becomes **land**  
-- The Sky God’s nu becomes **light**  
-- Where their nu overlaps, **Earth** is formed  
-
-At the point where their nu intersects most intensely, a third deity emerges:
-
-### **The God of Harmony (pa)**  
-pa is a *later-born* divine trace.  
-pa places **water** between sky and earth, stabilizing their overwhelming forces.
-
-This explains:
-
-- why **pa** means “harmony / water / synthesis”  
-- why **pa** is part of the structural axis  
-- why **pa** has **exceptionally low priority** in word formation  
+Particles such as **wa**, **no**, **noo**, and **noano** express politeness and logical relations.  
+Pitch is also used to distinguish meaning.
 
 ---
 
-# 2. Life and Death — nu and ye
+## Comparison with Toki Pona
 
-Plants (nu) grow along the traces of the gods:
+Toki Pona is known as a minimal language with about **120 words**,  
+but Yeo-Language has **only ten**.
 
-- **roots** reach toward the Earth God  
-- **branches** reach toward the Sky God  
-
-Animals (ye) are beings that **consume nu**.
-
-This consumption is not predation; it is **survival** and **approach toward divinity**.
-
-### The Human Life Cycle  
-In this worldview:
-
-- Living beings eat nu to survive  
-- Humans inherit nu from ancestors  
-- A person may pass nu to descendants  
-- If one gathers enough nu, they die without leaving descendants  
-- **Death is either:**
-  - the moment of returning to the gods, or  
-  - the act of entrusting nu to the next generation  
-
-Thus:
-
-> **Life is the accumulation of nu.  
-> Death is the transition toward divinity.**
-
-This philosophy shapes the meanings of:
-
-- **nu** — edge, trace, blessing, plant  
-- **ye** — animal, survival, sin  
-- **yeo** — human (a being that eats nu and perceives)
+This makes it one of the most extremely minimal languages ever designed,  
+highlighting its goal of being “the simplest possible language.”
 
 ---
 
-# 3. Cognition — The Three Layers of Human Perception
+# Mythological Background (Optional)
 
-Yeo-Language divides human perception into three concentric layers:
-
-### **o — the inner self**  
-What only the self can know.  
-Thought, core, identity, personal knowledge.
-
-### **sa — the reachable world**  
-What the hand can touch.  
-Shared space, common sense, the immediate environment.
-
-### **a — the visible but unreachable world**  
-What the eye can see but the hand cannot reach.  
-Distance, the unknown, what lies beyond understanding.
-
-These three roots form the **cognitive axis**:
-
-o → sa → a
-(inner → reachable → visible/unknown)
-
-# 4. The Three Ontological Axes
-
-Yeo-Language organizes existence into **three fundamental axes**, each defined by the ten roots.
-
-### 1. Cognitive Axis  
-`o – sa – a`  
-(inner → reachable → visible/unknown)
+The following mythology is an **optional background setting**  
+created to support the meanings of certain roots (especially nu, ye, and pa).  
+It is not required for learning or using the language.
 
 ---
 
-### 2. Structural Axis  
-`tu – pa – ta`  
-(above → harmony → below)
+## 1. The Earliest World — The Sky God and the Earth God
 
-This axis requires special explanation:
+In the earliest world, only two gods were known:  
+the **Sky God** and the **Earth God**.
 
-- **tu** and **ta** form the primary vertical opposition (above / below)  
-- **pa** is *also part of this axis*, but **not as a midpoint**  
-- pa is a **later-born harmonizing trace**, placed between sky and earth  
-- therefore pa has **exceptionally low priority** in word formation  
-- pa does not negate the tu–ta opposition; it **mediates** it
+- Wherever the Sky God passed, **sky, light, and fire** appeared.  
+- Wherever the Earth God passed, **earth, stone, and shadow** appeared.
 
-Thus the structural axis is:
+The traces left behind as they moved through the world are called **nu**,  
+the “divine tracks.”
 
-tu  (above)
-pa  (harmonizing trace, later-born)
-ta  (below)
+*(Supplement)* Stars appear round because the gods exist in **higher-dimensional space**,  
+and their straight tracks become spherical when projected into three dimensions.
 
 ---
 
-### 3. Existential Axis  
-`nu – ye`  
-(trace/plant → life/animal)
+## 2. Nu — The Divine Track
 
-These axes form the symbolic **十 (cross)** that gives the language its Japanese name.
-
----
-
-# 5. The Ten Roots as Ontological Primitives
-
-Each root represents a fundamental category of existence:
-
-- **o** — inner self, thought, identity  
-- **sa** — reachable world, common knowledge  
-- **a** — visible but unreachable, the unknown  
-- **tu** — above  
-- **ta** — below  
-- **pa** — harmony, water, synthesis  
-- **nu** — trace, edge, plant, blessing  
-- **ye** — animal, survival, sin  
-- **no** — relation, genitive, comparison  
-- **wa** — topic, purpose, discourse flow  
-
-These ten roots are the **minimum set** required to describe:
-
-- a world  
-- a self  
-- life  
-- death  
-- relation  
-- time  
-- action  
+Nu is the higher-dimensional track left by the gods as they pass through the world.  
+It is understood as a **“line of connection”** that always tends to return to its divine origin.
 
 ---
 
-# 6. Forbidden Concepts
+## 3. Pa — The God of Harmony and the Birth of Water
 
-Yeo-Language prohibits the creation of words that:
+In the vast universe, there was one miraculous point where  
+the **track of the Earth God** and the **track of the Sky God** intersected.  
+This point is **Earth**.
 
-- directly represent gods  
-- attempt to define unknowable entities  
-- surpass nu or ye in ontological scope  
+The two divine tracks collided violently:
 
-Human language must not “fix” what lies beyond human cognition.
+- the ground split,  
+- fire erupted,  
+- the sky trembled.
 
----
+At the center of this conflict, a new god was born to mediate between them:  
+the **God of Harmony, pa**.
 
-# 7. Derivation Philosophy (Minimal)
+Pa’s track entered between the two divine tracks,  
+connecting them, softening them, and balancing their forces.
 
-Yeo-Language avoids complex derivational rules.  
-Only two natural simplifications occur:
+This track of pa became **water**,  
+which calmed the violent clash between sky and earth  
+and shaped the present form of the world.
 
-1. **In frequent expressions, the part after *no* may be omitted**  
-2. **If priority makes the relationship unambiguous, *no* may be omitted**
-
-Examples (from the official vocabulary list):
-
-- *ye no o* → **yeo** (“human”)  
-- *nu no sa* → **nusa** (“ground; roots and branches”)  
-
-These are tendencies, not strict grammar.
-
----
-
-# 8. Sound and Meaning
-
-Yeo-Language uses **pitch (○●)** to distinguish meaning.  
-Pitch is phonemic, but the full phonology is documented separately.
+Earth is considered a unique point where  
+the tracks of **Sky, Earth, and Harmony** converge,  
+which is why **ye (life)** gathers here.
 
 ---
 
-# 9. Purpose of the Language
+## 4. Ye — Life That Consumes the Divine Track
 
-Yeo-Language is not designed for daily communication.  
-Its purpose is:
+Where many nu intersected and swirled, movement arose,  
+and this movement became **ye**, meaning “life.”
 
-- to explore how humans construct meaning  
-- to reveal the minimal structure needed to describe a world  
-- to express a cosmology through linguistic primitives  
-- to provide a tool for philosophical reflection  
-- to show how language shapes thought  
+Ye is described as a being that:
 
-It is a **mirror of human cognition**,  
-expressed through the smallest possible linguistic system.
+- consumes nu,  
+- stores it,  
+- and uses it to draw closer to the gods.
 
----
-
-# 10. Summary
-
-Yeo-Language is:
-
-- a 10-word language  
-- a cosmology  
-- a philosophy of life and death  
-- a cognitive model  
-- a mythic system  
-- a linguistic experiment  
-- a symbolic cross (十) connecting all axes of existence  
-
-It is not merely a language.  
-It is a **worldview encoded in ten sounds**.
+Because of this nature, ye refers to **animals and living beings**.
