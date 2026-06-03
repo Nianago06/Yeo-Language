@@ -1,236 +1,282 @@
-# Vocabulary
+# Vocabulary — The Ten Roots of Yeo-Language (十の字 / Nosa / Tonoji)
 
-Yeo-Language (十の字 / Tō-no-ji) contains exactly **ten words**:
+Yeo-Language is built from **ten ontological roots**.  
+All meaning in the language emerges from these ten primitives.
 
-o, sa, a, pa, tu, ta, ye, nu, no, wa
-
-Each word represents a broad conceptual field rather than a fixed meaning.  
-Interpretation depends heavily on **context, gesture, situation, and shared understanding**.
-
-The ten words are organized into **four conceptual groups**, each with a different role in the worldview and grammar of the language.
+Pitch (○●) distinguishes meaning, but the full phonology is documented separately.
 
 ---
 
-# 1. Conceptual Groups
+# 1. o  
+**Semantic field:**  
+sense, absorption, beginning, end (past/future), inside, self, “I”, center, core, nounhood, thought, cognition, collection, human, knowledge, gathering, grasping, naming
 
-## Group 1 — o / sa / a  
-### **“Subjective cognition: the world measured from the self.”**  
-These words describe how the speaker perceives the world.
+**Grammatical roles:**  
+- **o●** — article marking nouns  
+- **-o○** — particle meaning “limitation / equals”  
+- **-o●** — past
 
-| Word | Core Meaning (Noun) | Notes |
-|------|---------------------|-------|
-| **o** | self, thought, center, inner core, sense, beginning, end, past, name, knowledge, grasp | Represents the speaker’s internal axis. |
-| **sa** | near, common, shared, this, surface, voice, sound, here, expansion | Represents proximity and shared cognition. |
-| **a** | far, exceptional, that, outside, future, unknown, release, separation, diffusion, effect | Represents distance and the unknown. |
+**Representative derived words:**  
+- **O-sa** — “we”  
+- **Oo○●** — “one”  
+- **Oo-no○●●** — “ten”  
+- **O-no-ye** — “meat”  
+- **O-no-yeo** — “bone”  
+- **O-no-tuyesa** — “nose”  
+- **O-no-(tuno-)tunu** — “evening / east”
 
-**Priority:** Lowest  
-These words do not classify the world; they describe **how the world is experienced**.
+**Cognitive axis position:**  
+**inner self**
 
----
-
-## Group 2 — pa / tu / ta  
-### **“Classification of the world.”**
-
-| Word | Core Meaning (Noun) | Notes |
-|------|---------------------|-------|
-| **pa** | harmony, water, synthesis | Mythologically special; priority lowered. |
-| **tu** | above, high, upper | Forms adjective *tuno* (“big, high, male”). |
-| **ta** | below, low, base | Forms adjective *tano* (“small, grasping”). |
-
-**Priority:** Highest（except pa）  
-These words define **structural categories** of the world.
-
-**Mythological note:**  
-*pa* represents a primordial binding force and therefore does not dominate derived words.
+**Priority:**  
+o > sa > a > (pa)
 
 ---
 
-## Group 3 — nu / ye  
-### **“The world itself.”**
+# 2. sa  
+**Semantic field:**  
+near, general, common sense, “you”, surface, informing, “this”, output, emergence, here, limbs, voice, sound, expansion
 
-In the worldview of Yeo-Language, the world consists of only two knowable elements:
+**Grammatical roles:**  
+- **sa●** — unit (arm length)  
+- **sa●** — article marking verbs  
+- **-sa○** — nominative  
+- **-sa●** — present / continuous  
+- **-sa** (colloquial) — additive
 
-| Word | Core Meaning (Noun) | Notes |
-|------|---------------------|-------|
-| **nu** | edge, boundary, plant-life, frame of existence | Represents the structural “edge” of the world. |
-| **ye** | animal-life, activity, consumption, sin | Represents active, consuming life. |
+**Representative derived words:**  
+- **Sano○●** — horizontal / parallel to ground  
+- **Sa-no○○** — hair / feather  
+- **Sa-no-tusa** — hair / feather  
+- **Sa-no-tunu** — “daytime / sunlight / time”  
+- **Sa-no-tu** — “hand”  
+- **Sa-no-ta** — “foot”  
+- **Sa-no-tano** — “language”  
+- **Sa-no-ye** — “body”
 
-Everything else is considered **unknowable**—it may exist, but cannot be grasped by human cognition.
+**Cognitive axis position:**  
+**reachable world**
 
-**Priority:** Second
-
----
-
-## Group 4 — no / wa  
-### **“Auxiliary refinement.”**
-
-These two words do not belong to the ontology of the world.  
-They exist purely as **linguistic tools**.
-
-| Word | Core Meaning (Noun) | Function |
-|------|---------------------|----------|
-| **no** | relation, boundary, contrast | Refines nouns: genitive, parallel, target, adjective formation, selection, limitation, numbers. |
-| **wa** | topic, flow, discourse structure | Refines sentences: topic marking, purpose, logical relations. |
-
-**Priority:** None  
-They do not classify reality; they shape **meaning and structure**.
+**Priority:**  
+o > sa > a > (pa)
 
 ---
 
-# 2. Priority System
+# 3. a  
+**Semantic field:**  
+far, exception, non-common, outside, release, beginning (future), end, future, unknown, causing absorption, “that”, “over there”, secret, separation, diffusion, effect, entrusting
 
-Priority determines:
+**Grammatical roles:**  
+- **a●** — future
 
-- how compound words are formed  
-- which root appears first  
-- how listeners determine word boundaries in speech  
+**Representative derived words:**  
+- **Ao○●** — “three”  
+- **Aa○●** — “four / before”  
+- **Ano○○** — “west”  
+- **A-no○●** — “five”  
+- **A-no-o** — “left”  
+- **A-no-o○●○** — “seven”  
+- **A-no-a○●○** — “six”  
+- **A-no-sa○○○** — “finger”  
+- **A-no-(tuno-)tunu** — “dawn / west”  
+- **A-no-nu○○○** — “tool”
 
-**Priority (highest → lowest):**
+**Cognitive axis position:**  
+**visible but unreachable / unknown**
 
-1. **tu, ta**  
-2. **nu, ye**  
-3. **pa**  
-4. **o, sa, a**  
-5. **no, wa** (no priority)
-
-### Example  
-**yeo** (“human”) = *ye + o*  
-→ because **ye** has higher priority than **o**  
-→ *oye* is impossible
-
----
-
-# 3. Detailed Meanings of Each Word
-
-Below is a more complete list of the conceptual fields each word covers.
+**Priority:**  
+o > sa > a > (pa)
 
 ---
 
-## **o**
-- sense, absorption  
-- beginning, end (future), past  
-- inside, self, I  
-- center, core  
-- thought, idea  
-- gathering, knowledge  
-- grasping, holding  
-- name  
+# 4. pa  
+**Semantic field:**  
+harmony, water, synthesis
+
+**Representative derived words:**  
+- **Pa-pa○●** — “parent / great woman / mother”  
+- **Pano○●** — “woman / mother”  
+- **Pano○● (adj.)** — “female”  
+- **Pano-pa** — “great woman”  
+- **Pano-yeo** — “woman (human)”  
+- **Pa-no-yeo** — “blood”
+
+**Structural axis position:**  
+**harmonizing trace (later-born)**
+
+**Priority:**  
+exceptionally low (mythological reason)
 
 ---
 
-## **sa**
-- near, this, here  
-- common, shared, normal  
-- surface  
-- informing, expressing  
-- emerging, appearing  
-- limbs, voice, sound  
-- spreading  
+# 5. tu  
+**Semantic field:**  
+above
+
+**Representative derived words:**  
+- **Tuo○●** — “father / elder male”  
+- **Tusa○●** — “hand / arm / long / tail”  
+- **Tusano○●●** — “palm / wing”  
+- **Tusa-no-tu** — “feather”  
+- **Tu-tu** — “parent / great man”  
+- **Tunu** — “sky / star / sun / moon / upper plant”  
+- **Tunuo** — “evening”  
+- **Tunusa** — “fire (artificial) / light / day / time”  
+- **Tunusano** — “leaf”  
+- **Tunupa** — “hot water”  
+- **Tuye** — “bird / male / wing”  
+- **Tuyeo** — “man”  
+- **Tuyesa** — “head / insect / reptile”
+
+**Structural axis position:**  
+**above**
+
+**Priority:**  
+tu > ta > (pa)
 
 ---
 
-## **a**
-- far, that, over there  
-- exception, abnormal  
-- outside  
-- release, sending out  
-- beginning (future), end  
-- future, unknown  
-- causing absorption  
-- secret, separation  
-- diffusion, effect  
-- entrusting  
+# 6. ta  
+**Semantic field:**  
+below
+
+**Representative derived words:**  
+- **Tao** — “child”  
+- **Tasa** — “leg / long”  
+- **Tasano** — “foot / voice / language”  
+- **Tanu** — “soil”  
+- **Taye** — “egg”  
+- **Tayeo** — “child”  
+- **Tano** — “to make small / grasp”  
+- **Tano (adj.)** — “small / childlike / low / disadvantageous”  
+- **Tano-sano** — “vertical length / height”  
+- **Tano-tunu** — “star”  
+- **Tano-tuye** — “insect / small bird”  
+- **Tano-yeo** — “child (human)”  
+- **Ta-no-tuyesa** — “mouth”
+
+**Structural axis position:**  
+**below**
+
+**Priority:**  
+tu > ta > (pa)
 
 ---
 
-## **pa**
-- harmony  
-- water  
-- synthesis  
+# 7. nu  
+**Semantic field:**  
+edge, trace, blessing, plant, tree
+
+**Representative derived words:**  
+- **Nusa** — “ground / roots and branches”  
+- **Nua** — “tool / to make”  
+- **Nua-no-o** — “writing tool”  
+- **Nua-no-ye** — “weapon”  
+- **Nupa** — “water”  
+- **Nu-nu** — “forest”  
+- **Nuye** — “the knowable world / Earth / yin–yang”  
+- **Nuyeo** — “holy person”  
+- **Nuasa** — “habitat”  
+- **Nuaa** — “weapon / hunting”  
+- **Nuno** — “thankful”  
+- **Nu-no-tu** — “sky / sun”  
+- **Nuno-yeo** — “holy person”
+
+**Existential axis position:**  
+**trace / plant**
+
+**Priority:**  
+nu > ye
 
 ---
 
-## **tu**
-- above  
-- high  
-- upper  
+# 8. ye  
+**Semantic field:**  
+animal, sin, life activity  
+(also a **negation particle**)
+
+**Representative derived words:**  
+- **Yeo** — “human / sense / food / mouth”  
+- **Ye-no-o** — “human”  
+- **Yeo-no-a** — “teacher / preacher”  
+- **Yesa** — “body / skin”  
+- **Yesa-no-tu** — “head”  
+- **Yepa** — “fish / female”  
+- **Yeye** — “death”  
+- **Yeno** — “meaningless killing”  
+- **Ye-no-o** — “food”  
+- **Yeo-no-yepa** — “woman”  
+- **Yeo-no-tuye** — “man”
+
+**Existential axis position:**  
+**life / animal**
+
+**Priority:**  
+nu > ye
 
 ---
 
-## **ta**
-- below  
-- low  
-- base  
+# 9. no  
+**Semantic field:**  
+relation, genitive, comparison, parallel, selection, addition, limitation, sequence, number formation
+
+**Grammatical roles:**  
+- **no●** — adjective marker  
+- **S-no-S○** — genitive  
+- **S-no-o~○●** — parallel / comparison  
+- **V-no-S●** — object / duration  
+- **V-no-V●** — parallel actions  
+- **No~no** — conjunction  
+- **No-(oa)-no~** — selection  
+- **Noo-no~** — grouping  
+- **Nosa-no~** — addition  
+- **Noa-no~** — limitation / sequence  
+- **No● (numeral)** — “ten”
+
+**Representative derived words:**  
+- **Ono-** — “name”  
+- **No-o-sa** — “cross (language)”  
+
+**Priority:**  
+auxiliary (no priority class)
 
 ---
 
-## **nu**
-- edge  
-- boundary  
-- plant  
-- tree  
+# 10. wa  
+**Semantic field:**  
+topic, beginning of sentence, purpose, contrast
+
+**Grammatical roles:**  
+- **wa** — topic marker  
+- **wa (particle)** — purpose  
+- **waye-** — contrast  
+- **waa** — sequence
+
+**Representative derived words:**  
+(wa is primarily grammatical; no lexical compounds)
+
+**Priority:**  
+auxiliary (no priority class)
 
 ---
 
-## **ye**
-- animal  
-- sin  
-- life activity  
+# Derivation (Minimal Rules)
+
+Yeo-Language uses only two natural simplifications:
+
+1. **In frequent expressions, the part after *no* may be omitted**  
+2. **If priority makes the relationship unambiguous, *no* may be omitted**
+
+Examples:  
+- *ye no o* → **yeo**  
+- *nu no sa* → **nusa**
 
 ---
 
-## **no**
-- relation  
-- boundary  
-- contrast  
-- genitive (A no B = “B’s A”)  
-- parallel (A no oB = “A and B”)  
-- target (V no oB = “do A to B”)  
-- adjective formation (tuno / tano)  
-- selection (no-oa-no~)  
-- limitation (no-a-no~)  
-- integration (no-o-no~)  
-- conjunction (nono = sequential)  
-- number system (ten, digit shift, addition)  
+# Axes Summary
 
----
+- **Cognitive Axis:** o – sa – a  
+- **Structural Axis:** tu – pa – ta  
+- **Existential Axis:** nu – ye
 
-## **wa**
-- topic marker (sentence-initial)  
-- purpose (wa-)  
-- contrast (waye-)  
-- sequential (waa)  
-- discourse flow  
-
----
-
-# 4. Summary Table
-
-| Word | Group | Core Meaning | Priority |
-|------|--------|--------------|----------|
-| o | Subjective cognition | self, thought | 3 |
-| sa | Subjective cognition | near, shared | 3 |
-| a | Subjective cognition | far, unknown | 3 |
-| pa | World classification | harmony, water | 3 |
-| tu | World classification | above | 1 |
-| ta | World classification | below | 1 |
-| nu | World ontology | edge, plant | 2 |
-| ye | World ontology | animal, activity | 2 |
-| no | Auxiliary (noun refinement) | relation, boundary | — |
-| wa | Auxiliary (sentence refinement) | topic, flow | — |
-
----
-
-# 5. Notes on Interpretation
-
-Because Yeo-Language has only ten words,  
-**meaning is constructed through:**
-
-- context  
-- gesture  
-- shared situation  
-- intonation  
-- speaker intention  
-
-The vocabulary is not meant to be precise;  
-it is meant to **invite interpretation** and reveal the structure of human cognition.
+These form the symbolic **十 (cross)** of the language.
