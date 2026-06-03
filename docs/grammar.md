@@ -82,8 +82,6 @@ Functions include:
 Example:
 ye no o → yeo (“life + self = human”)
 
-The following usages are intended for simple conversation and are rarely used in everyday speech in this language.
-
 ---
 
 ## ■ noo — Addition (and / also)
