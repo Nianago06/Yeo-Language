@@ -1,4 +1,4 @@
-# Yeo-Language (Japanese: 十の字 / Tō-no-ji)
+# Yeo-Language (十の字 / Tō-no-ji)
 
 **Yeo-Language** is an experimental minimalist constructed language designed to explore the limits of human communication.  
 Its core principle is radical simplicity: **the entire language consists of only 10 words**.
