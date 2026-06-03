@@ -40,3 +40,57 @@ The extreme reduction of vocabulary highlights how humans construct meaning beyo
 Yeo-Language contains exactly **10 words**:
 
 o, sa, a, pa, tu, ta, ye, nu, no, wa
+
+Each word represents a broad conceptual field.  
+Their interpretation depends heavily on context, gesture, and situation.
+
+A full explanation of each word is available in:
+
+➡ `/docs/vocabulary.md`
+
+---
+
+## 🧩 Grammar Overview
+
+- **Word order:** SVO  
+- **Nouns and verbs:** distinguished only by position  
+- **Negation:** prefix **ye-**  
+- **Tense:** optional suffixes **-o**, **-sa**, **-a** (rarely used)  
+- **Demonstratives:** **sa** (near), **a** (far)  
+- **Contextual meaning:** essential to interpretation  
+
+Full grammar is documented in:
+
+➡ `/docs/grammar.md`  
+➡ `/docs/syntax.md`  
+➡ `/docs/semantics.md`
+
+---
+
+## 🗣️ Example
+
+o o yeo
+I  be human
+“I am a human.”
+
+More examples:
+
+➡ `/docs/examples.md`
+
+---
+
+## 📚 Documentation
+
+- `/docs/overview.md` — philosophy and purpose  
+- `/docs/vocabulary.md` — meaning fields and classification  
+- `/docs/grammar.md` — full grammar  
+- `/docs/syntax.md` — sentence structure  
+- `/docs/semantics.md` — contextual meaning  
+- `/docs/examples.md` — example sentences  
+- `/docs/design_philosophy.md` — deeper explanation of the 10-word system  
+
+---
+
+## 📄 License
+
+(Choose one, e.g. CC BY-SA 4.0)
