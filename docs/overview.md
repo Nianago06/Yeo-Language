@@ -1,151 +1,217 @@
-# Overview
+# Overview  
+*The Cosmology, Philosophy, and Cognitive Framework of Yeo-Language (Nosa / Tonoji)*
 
-**Yeo-Language (十の字 / Tō-no-ji)** is an experimental minimalist constructed language built on a radical premise:  
-**the entire language consists of only ten words.**
+Yeo-Language (十の字 / Tō-no-ji), also known as **Nosa** or **Tonoji**, is a minimalist constructed language built from only **ten root words**.  
+Despite its extreme simplicity, the language encodes a complete cosmology, ontology, and philosophy of human existence.
 
-Rather than functioning as a full communicative system, Yeo-Language is designed as a tool for:
-
-- reorganizing thought  
-- simplifying expression  
-- shifting cognitive perspective  
-- enabling minimal and accessible communication  
-
-Meaning in Yeo-Language emerges not from vocabulary size, but from **context, gesture, shared situation, and human intuition**.  
-The language explores how much of communication is constructed beyond words.
+This document explains the **mythology**, **world structure**, **cognitive model**, and **philosophical foundations** that define the language.
 
 ---
 
-## 1. Purpose
+# 1. Cosmology — The World Formed by “縁 (nu)”
 
-Yeo-Language aims to be **“the simplest possible language”** while still allowing meaningful interaction.  
-It is not intended for daily conversation or native acquisition.  
-Instead, it supports:
+In the mythology of Yeo-Language, the universe is shaped by the wandering of two primordial gods:
 
-- cognitive reflection  
-- creative constraint-based expression  
-- simple communication in limited contexts  
-- individuals who find language acquisition difficult  
+- **The Sky God**
+- **The Earth God**
 
-The extreme reduction of vocabulary highlights the human ability to construct meaning through inference and shared understanding.
+As they travel, their paths leave behind **traces**, called **縁 (nu)**.  
+These traces form the **structure of reality**.
 
----
+- The Earth God’s nu becomes **land**  
+- The Sky God’s nu becomes **light**  
+- Where their nu overlaps, **Earth** is created  
 
-## 2. The Ten-Word System
+At the point where their nu intersects most strongly, a third deity emerges:
 
-Yeo-Language contains exactly **ten words**:
+### **The God of Harmony (pa)**  
+Born later than the other two gods, pa places **water** between sky and earth, stabilizing the world.
 
-o, sa, a, pa, tu, ta, ye, nu, no, wa
+This myth explains:
 
-Each word represents a broad conceptual field.  
-These ten words are not arbitrary; they are organized into **four conceptual groups**, each reflecting a different layer of human cognition and world structure.
-
----
-
-## 3. The Four Conceptual Groups
-
-### **Group 1 — o / sa / a**  
-**“Subjective cognition: the world measured from the self.”**  
-These words represent the speaker’s internal frame of reference:
-
-- **o** — self, thought, center, inner core  
-- **sa** — near, shared, common, “this”  
-- **a** — far, unknown, exceptional, “that”  
-
-This group has the **lowest priority** in word formation.  
-They do not classify the world; they describe **how the world is perceived**.
+- why **pa** means “harmony / water”  
+- why **pa** has **lower grammatical priority**  
+- why **nu** represents “edge / trace / plant-life”  
+- why **tu** and **ta** represent “above / below”  
 
 ---
 
-### **Group 2 — pa / tu / ta**  
-**“Classification of the world.”**  
-These words categorize the structure of existence:
+# 2. The Structure of Life — nu and ye
 
-- **tu** — above, high, upper  
-- **ta** — below, low, base  
-- **pa** — harmony, water, synthesis  
+Plants (nu) grow along the traces of the gods:
 
-This group has the **highest priority** in word formation,  
-except **pa**, which is intentionally lowered due to a **mythological reason**:  
-pa represents a primordial “binding force” that predates human categorization,  
-and therefore does not dominate the structure of derived words.
+- **roots** reach toward the Earth God  
+- **branches** reach toward the Sky God  
 
----
+Animals (ye) are beings that **consume nu**.
 
-### **Group 3 — nu / ye**  
-**“The world itself.”**  
-In the worldview of Yeo-Language, the world consists of only two knowable elements:
+This act is not predation; it is **survival** and **approach toward divinity**.
 
-- **nu** — edge, boundary, plant-life, the outer frame of existence  
-- **ye** — animal-life, activity, consumption, sin  
+### Life and Death  
+In this worldview:
 
-Everything else is considered **unknowable**—it may exist, but cannot be grasped by human cognition.  
-This group has **second priority** in word formation.
+- Living beings eat nu to survive  
+- Humans inherit nu from ancestors  
+- A person may pass nu to descendants  
+- If one gathers enough nu, they die without leaving descendants  
+- **Death is not an end**  
+  - It is either the moment of returning to the gods  
+  - or the act of entrusting nu to the next generation  
 
----
+Thus, **life is the accumulation of nu**,  
+and **death is the transition toward divinity**.
 
-### **Group 4 — no / wa**  
-**“Auxiliary refinement.”**  
-These two words do not belong to the world’s ontology.  
-They exist purely as **linguistic tools**:
+This philosophy shapes the meanings of:
 
-- **no** — refines nouns (relation, boundary, contrast, specification)  
-- **wa** — refines sentences (topic, flow, purpose, logical relation)
-
-They have **no priority** in word formation and do not represent entities in the world.
+- **nu** — edge, trace, blessing, plant  
+- **ye** — animal, survival, sin  
+- **yeo** — human (a being that eats nu and thinks)
 
 ---
 
-## 4. Priority System
+# 3. Cognitive Model — How Humans Perceive the World
 
-Yeo-Language uses a **priority hierarchy** to determine how new words are formed and how word boundaries are interpreted in speech.
+Yeo-Language divides human perception into three concentric layers:
 
-Priority (highest → lowest):
+### **o — the inner self**  
+What only the self can know.  
+Thought, sense, core, identity.
 
-1. **tu, ta**  
-2. **nu, ye**  
-3. **pa** (mythologically lowered)  
-4. **o, sa, a**  
-5. **no, wa** (no priority)
+### **sa — the reachable world**  
+What the hand can touch.  
+Shared space, common knowledge, the immediate environment.
 
-This system ensures that:
+### **a — the visible but unreachable world**  
+What the eye can see but the hand cannot reach.  
+Distance, the unknown, the beyond.
 
-- derived words follow a consistent internal logic  
-- listeners can determine “where one word ends” in continuous speech  
-- semantic structure reflects the worldview of the language
+These three words form the **subjective axis** of the language:
 
-For example, **yeo** (“human”) must be *ye + o*, never *o + ye*,  
-because **ye** has higher priority than **o**.
+o  →  sa  →  a
+(inner) (reachable) (visible but beyond)
 
----
+This axis defines how speakers conceptualize:
 
-## 5. The Name “Yeo”
-
-The name *Yeo* is formed from:
-
-- **ye** — animal, living being  
-- **o** — thought, self  
-
-Together, they express:
-
-> **“a being with thought” — a human.**
-
-This name reflects the language’s central idea:  
-**communication is a human act shaped by thought, context, and shared understanding, not by vocabulary size.**
+- self  
+- proximity  
+- distance  
+- knowledge  
+- the unknown  
 
 ---
 
-## 6. Design Philosophy
+# 4. Ontological Model — The Three Axes of Reality
 
-Yeo-Language embraces the idea that **meaning is relational**.  
-With only ten words, speakers must rely on:
+Yeo-Language organizes existence into **three fundamental axes**:
 
-- inference  
-- empathy  
-- situational awareness  
-- nonverbal expression  
+### 1. **Cognitive Axis**  
+`o – sa – a`  
+(inner → reachable → visible/unknown)
 
-This constraint encourages a return to the fundamentals of communication,  
-revealing how humans construct meaning even with minimal linguistic material.
+### 2. **Structural Axis**  
+`tu – pa – ta`  
+(above → harmony → below)
 
-Yeo-Language is therefore not merely a linguistic experiment,  
-but a philosophical exploration of what it means to communicate as a human being.
+### 3. **Existential Axis**  
+`nu – ye`  
+(trace/plant → life/animal)
+
+These axes form the **十 (cross)** that gives the language its name.
+
+---
+
+# 5. The Ten Words as Ontological Primitives
+
+The ten roots are not “words” in the usual sense.  
+They are **irreducible conceptual primitives** that describe:
+
+- cognition  
+- space  
+- existence  
+- life  
+- relation  
+- discourse  
+
+They are the smallest possible set that can still express:
+
+- a world  
+- a self  
+- life  
+- death  
+- relation  
+- time  
+- action  
+
+This is why Yeo-Language is not merely a language,  
+but a **philosophical system encoded in linguistic form**.
+
+---
+
+# 6. Forbidden Concepts
+
+Yeo-Language forbids the creation of words that:
+
+- directly represent gods  
+- attempt to define unknowable entities  
+- surpass nu or ye in ontological scope  
+
+Human language must not “fix” what lies beyond human cognition.
+
+This rule is central to the language’s design.
+
+---
+
+# 7. Derivation Philosophy (Minimal)
+
+Yeo-Language avoids complex derivational rules.  
+Only two natural simplifications occur:
+
+1. **In frequent expressions, the part after *no* may be omitted**  
+2. **If priority makes the relationship unambiguous, *no* may be omitted**
+
+Examples:
+
+- *ye no o* → **yeo** (“human”)  
+- *nu no sa* → **nusa** (“ground”)  
+
+These are not grammatical rules but **natural tendencies**.
+
+---
+
+# 8. Sound and Meaning
+
+Yeo-Language uses **pitch (○●)** to distinguish meaning.  
+Pitch is phonemic, but the full phonology is documented separately.
+
+---
+
+# 9. Purpose of the Language
+
+Yeo-Language is not designed for daily communication.  
+Its purpose is:
+
+- to explore how humans construct meaning  
+- to reveal the minimal structure needed to describe a world  
+- to express a cosmology through linguistic primitives  
+- to provide a tool for philosophical reflection  
+- to show how language shapes thought  
+
+It is a **mirror of human cognition**,  
+expressed through the smallest possible linguistic system.
+
+---
+
+# 10. Summary
+
+Yeo-Language is:
+
+- a 10-word language  
+- a cosmology  
+- a philosophy of life and death  
+- a cognitive model  
+- a mythic system  
+- a linguistic experiment  
+- a symbolic cross (十) connecting all axes of existence  
+
+It is not merely a language.  
+It is a **worldview encoded in ten sounds**.
