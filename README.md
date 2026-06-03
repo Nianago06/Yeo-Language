@@ -1,93 +1,157 @@
-# Yeo-Language (十の字 / Tō-no-ji)
+# Yeo-Language (十の字 / Tō-no-ji / Nōsa)
+*A 10‑word cosmological language shaped by “縁 (nu)”*
 
-**Yeo-Language** is an experimental minimalist constructed language built on a radical idea:  
-**the entire language consists of only ten words.**
+**Yeo-Language**—also known as **Nosa** or **Tonoji**—is an extreme minimalist constructed language built from only **ten root words**.  
+Despite its simplicity, it encodes a complete worldview: cosmology, mythology, ontology, and a unique philosophy of life and death.
 
-It is designed not as a full communicative system, but as a tool for:
+The language is designed not as a full communicative system, but as a tool for:
 
 - reorganizing thought  
-- simplifying expression  
-- shifting perspective  
-- enabling minimal and accessible communication  
+- perceiving the world through a different cognitive lens  
+- expressing existence through the concept of **縁 (nu)**  
+- exploring a mythic cosmology with only ten foundations  
 
-Meaning in Yeo-Language emerges through context, gesture, and shared understanding rather than vocabulary size.  
-The name *Yeo* comes from:
-
-- **ye** — “animal / living being”  
-- **o** — “thought / self”  
-
-Together, *yeo* expresses “a being with thought” — a human.
+Meaning arises through **context, gesture, sound, and shared understanding**, not through vocabulary size.
 
 ---
 
-## 🌱 Purpose
+## 🌱 Core Concept
 
-Yeo-Language aims to be **“the simplest possible language”** while still allowing meaningful expression.  
-It is not intended for daily conversation or native acquisition.  
-Instead, it supports:
+Yeo-Language is built on a single metaphysical idea:
 
-- cognitive reflection  
-- creative constraint-based expression  
-- simple communication in limited contexts  
-- individuals who find language acquisition difficult  
+> **The world is formed by the traces of gods, called 縁 (nu).  
+> Living beings (ye) consume nu to survive and to approach divinity.**
 
-The extreme reduction of vocabulary highlights how humans construct meaning beyond words.
+Key principles:
 
----
+- The world is shaped by the wandering paths of gods  
+- These paths become **nu**, the “edge” or “trace” that forms reality  
+- Plants (nu) grow along these traces  
+- Animals (ye) live by consuming nu  
+- Humans (yeo) inherit nu from ancestors  
+- Death is either:
+  - the moment one has gathered enough nu to return to the gods, or  
+  - the act of passing nu to descendants  
 
-## 🔤 Vocabulary
-
-Yeo-Language contains exactly **10 words**:
-
-o, sa, a, pa, tu, ta, ye, nu, no, wa
-
-Each word represents a broad conceptual field.  
-Their interpretation depends heavily on context, gesture, and situation.
-
-A full explanation of each word is available in:
-
-➡ `/docs/vocabulary.md`
+Language itself must **not** attempt to name or define what lies beyond human understanding.  
+Thus, certain words are forbidden.
 
 ---
 
-## 🧩 Grammar Overview
+## 🔤 The Ten Words
 
-- **Word order:** SVO  
-- **Nouns and verbs:** distinguished only by position  
-- **Negation:** prefix **ye-**  
-- **Tense:** optional suffixes **-o**, **-sa**, **-a** (rarely used)  
-- **Demonstratives:** **sa** (near), **a** (far)  
-- **Contextual meaning:** essential to interpretation  
+Yeo-Language consists of exactly **ten roots**:
 
-Full grammar is documented in:
+o, sa, a, pa, tu, ta, nu, ye, no, wa
 
-➡ `/docs/grammar.md`  
-➡ `/docs/syntax.md`  
-➡ `/docs/semantics.md`
+They are grouped into four conceptual domains.
+
+### 1. Subjective Cognition — *o / sa / a*
+- **o** — inner self, what only the self can know  
+- **sa** — what the hand can reach  
+- **a** — what the eye can see but the hand cannot reach; the unknown  
+
+### 2. Structure of the World — *tu / pa / ta*
+- **tu** — above  
+- **ta** — below  
+- **pa** — harmony, water  
+  - *pa is mythologically “born later,” and therefore has lower priority*
+
+### 3. The World Itself — *nu / ye*
+- **nu** — edge, trace of gods, plant-life  
+- **ye** — animal-life, survival, sin  
+
+### 4. Linguistic Refinement — *no / wa*
+- **no** — relation, genitive, comparison  
+- **wa** — topic, purpose, discourse flow  
 
 ---
 
-## 🗣️ Example
+## 🌀 Mythology
 
-o o yeo
-I  be human
-“I am a human.”
+In the cosmology of Yeo-Language:
 
-More examples:
+- A **Sky God** and an **Earth God** wander the universe  
+- Their paths become **nu**, the edges that shape reality  
+- Where their nu overlaps, **Earth** is formed  
+- At the strongest intersection of their nu, a **God of Harmony (pa)** is born  
+- This god places water between sky and earth, stabilizing the world  
 
-➡ `/docs/examples.md`
+Plants grow along nu:  
+- roots toward the Earth God  
+- branches toward the Sky God  
+
+Animals (ye) consume nu to survive and to approach the gods.
+
+This mythology directly shapes the meanings of **nu**, **ye**, and **pa**,  
+and explains why **pa** has lower grammatical priority.
+
+---
+
+## ⚖ Forbidden Words
+
+Yeo-Language prohibits the creation of:
+
+- words that directly represent gods  
+- words that attempt to define unknowable entities  
+- words that surpass nu or ye in ontological scope  
+
+Human language must not “fix” what lies beyond human cognition.
+
+---
+
+## 🔧 Derivation (Minimal Rules)
+
+Yeo-Language avoids complex derivational systems.  
+Only two natural simplifications occur:
+
+1. **In frequent expressions, the part after *no* may be omitted**  
+   (as long as meaning remains clear)
+
+2. **If the priority system makes the relationship unambiguous,  
+   the genitive *no* may be omitted**
+
+Examples:
+
+- *ye no o* → **yeo** (“human”)  
+- *nu no sa* → **nusa** (“ground; roots and branches”)  
+
+---
+
+## 🌞 Representative Derived Words
+
+These examples illustrate how meaning emerges from the ten roots:
+
+- **Tuye** — bird, male, wing  
+- **Nusa** — ground; roots and branches  
+- **Nuye** — the knowable world; Earth; yin–yang  
+- **Yepa** — fish; female  
+- **Tuno** — great, large, male, high  
+- **Tano** — small, low, childlike  
+- **Tunu** — sky, star, sun, moon  
+- **Yeo** — human; sense; food; mouth  
+
+Special cosmological compounds:
+
+- **tunu** — “upper nu,” the Sky God’s trace  
+- **tanu** — “lower nu,” the Earth God’s trace  
+
+---
+
+## 🔊 Phonology
+
+Yeo-Language uses **pitch (○●)** to distinguish meaning.  
+Detailed phonology will be documented separately.
 
 ---
 
 ## 📚 Documentation
 
-- `/docs/overview.md` — philosophy and purpose  
-- `/docs/vocabulary.md` — meaning fields and classification  
-- `/docs/grammar.md` — full grammar  
-- `/docs/syntax.md` — sentence structure  
-- `/docs/semantics.md` — contextual meaning  
+- `/docs/overview.md` — cosmology and philosophy  
+- `/docs/vocabulary.md` — the ten roots and their conceptual fields  
+- `/docs/grammar.md` — structure, particles, and syntax  
 - `/docs/examples.md` — example sentences  
-- `/docs/design_philosophy.md` — deeper explanation of the 10-word system  
+- `/docs/design_philosophy.md` — linguistic and metaphysical design  
 
 ---
 
