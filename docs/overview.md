@@ -1,42 +1,47 @@
 # Overview  
-*The Cosmology, Philosophy, and Cognitive Framework of Yeo-Language (Nosa / Tonoji)*
+*Cosmology, Cognition, and the Philosophical Foundations of Yeo-Language (十の字 / Nosa / Tonoji)*
 
-Yeo-Language (十の字 / Tō-no-ji), also known as **Nosa** or **Tonoji**, is a minimalist constructed language built from only **ten root words**.  
-Despite its extreme simplicity, the language encodes a complete cosmology, ontology, and philosophy of human existence.
+Yeo-Language—also known as **Nosa** or **Tonoji**—is a minimalist constructed language built from only **ten root words**:
 
-This document explains the **mythology**, **world structure**, **cognitive model**, and **philosophical foundations** that define the language.
+o, sa, a, pa, tu, ta, nu, ye, no, wa
+
+These ten roots are not ordinary vocabulary.  
+They are **ontological primitives** that describe how the world exists, how humans perceive it, and how life moves toward divinity.
+
+This document explains the **mythology**, **world structure**, **cognitive model**, and **philosophical principles** that define the language.
 
 ---
 
-# 1. Cosmology — The World Formed by “縁 (nu)”
+# 1. Cosmology — The World of “縁 (nu)”
 
-In the mythology of Yeo-Language, the universe is shaped by the wandering of two primordial gods:
+In the cosmology of Yeo-Language, the universe is shaped by two primordial gods:
 
 - **The Sky God**
 - **The Earth God**
 
-As they travel, their paths leave behind **traces**, called **縁 (nu)**.  
-These traces form the **structure of reality**.
+As they wander through the higher-dimensional world, their paths leave behind **traces**, called **縁 (nu)**.
+
+These traces form the structure of reality:
 
 - The Earth God’s nu becomes **land**  
 - The Sky God’s nu becomes **light**  
-- Where their nu overlaps, **Earth** is created  
+- Where their nu overlaps, **Earth** is formed  
 
-At the point where their nu intersects most strongly, a third deity emerges:
+At the point where their nu intersects most intensely, a third deity emerges:
 
 ### **The God of Harmony (pa)**  
-Born later than the other two gods, pa places **water** between sky and earth, stabilizing the world.
+pa is a *later-born* divine trace.  
+pa places **water** between sky and earth, stabilizing their overwhelming forces.
 
-This myth explains:
+This explains:
 
-- why **pa** means “harmony / water”  
-- why **pa** has **lower grammatical priority**  
-- why **nu** represents “edge / trace / plant-life”  
-- why **tu** and **ta** represent “above / below”  
+- why **pa** means “harmony / water / synthesis”  
+- why **pa** is part of the structural axis  
+- why **pa** has **exceptionally low priority** in word formation  
 
 ---
 
-# 2. The Structure of Life — nu and ye
+# 2. Life and Death — nu and ye
 
 Plants (nu) grow along the traces of the gods:
 
@@ -45,94 +50,107 @@ Plants (nu) grow along the traces of the gods:
 
 Animals (ye) are beings that **consume nu**.
 
-This act is not predation; it is **survival** and **approach toward divinity**.
+This consumption is not predation; it is **survival** and **approach toward divinity**.
 
-### Life and Death  
+### The Human Life Cycle  
 In this worldview:
 
 - Living beings eat nu to survive  
 - Humans inherit nu from ancestors  
 - A person may pass nu to descendants  
 - If one gathers enough nu, they die without leaving descendants  
-- **Death is not an end**  
-  - It is either the moment of returning to the gods  
-  - or the act of entrusting nu to the next generation  
+- **Death is either:**
+  - the moment of returning to the gods, or  
+  - the act of entrusting nu to the next generation  
 
-Thus, **life is the accumulation of nu**,  
-and **death is the transition toward divinity**.
+Thus:
+
+> **Life is the accumulation of nu.  
+> Death is the transition toward divinity.**
 
 This philosophy shapes the meanings of:
 
 - **nu** — edge, trace, blessing, plant  
 - **ye** — animal, survival, sin  
-- **yeo** — human (a being that eats nu and thinks)
+- **yeo** — human (a being that eats nu and perceives)
 
 ---
 
-# 3. Cognitive Model — How Humans Perceive the World
+# 3. Cognition — The Three Layers of Human Perception
 
 Yeo-Language divides human perception into three concentric layers:
 
 ### **o — the inner self**  
 What only the self can know.  
-Thought, sense, core, identity.
+Thought, core, identity, personal knowledge.
 
 ### **sa — the reachable world**  
 What the hand can touch.  
-Shared space, common knowledge, the immediate environment.
+Shared space, common sense, the immediate environment.
 
 ### **a — the visible but unreachable world**  
 What the eye can see but the hand cannot reach.  
-Distance, the unknown, the beyond.
+Distance, the unknown, what lies beyond understanding.
 
-These three words form the **subjective axis** of the language:
+These three roots form the **cognitive axis**:
 
-o  →  sa  →  a
-(inner) (reachable) (visible but beyond)
+o → sa → a
+(inner → reachable → visible/unknown)
 
-This axis defines how speakers conceptualize:
+# 4. The Three Ontological Axes
 
-- self  
-- proximity  
-- distance  
-- knowledge  
-- the unknown  
+Yeo-Language organizes existence into **three fundamental axes**, each defined by the ten roots.
 
----
-
-# 4. Ontological Model — The Three Axes of Reality
-
-Yeo-Language organizes existence into **three fundamental axes**:
-
-### 1. **Cognitive Axis**  
+### 1. Cognitive Axis  
 `o – sa – a`  
 (inner → reachable → visible/unknown)
 
-### 2. **Structural Axis**  
+---
+
+### 2. Structural Axis  
 `tu – pa – ta`  
 (above → harmony → below)
 
-### 3. **Existential Axis**  
-`nu – ye`  
-(trace/plant → life/animal)
+This axis requires special explanation:
 
-These axes form the **十 (cross)** that gives the language its name.
+- **tu** and **ta** form the primary vertical opposition (above / below)  
+- **pa** is *also part of this axis*, but **not as a midpoint**  
+- pa is a **later-born harmonizing trace**, placed between sky and earth  
+- therefore pa has **exceptionally low priority** in word formation  
+- pa does not negate the tu–ta opposition; it **mediates** it
+
+Thus the structural axis is:
+
+tu  (above)
+pa  (harmonizing trace, later-born)
+ta  (below)
 
 ---
 
-# 5. The Ten Words as Ontological Primitives
+### 3. Existential Axis  
+`nu – ye`  
+(trace/plant → life/animal)
 
-The ten roots are not “words” in the usual sense.  
-They are **irreducible conceptual primitives** that describe:
+These axes form the symbolic **十 (cross)** that gives the language its Japanese name.
 
-- cognition  
-- space  
-- existence  
-- life  
-- relation  
-- discourse  
+---
 
-They are the smallest possible set that can still express:
+# 5. The Ten Roots as Ontological Primitives
+
+Each root represents a fundamental category of existence:
+
+- **o** — inner self, thought, identity  
+- **sa** — reachable world, common knowledge  
+- **a** — visible but unreachable, the unknown  
+- **tu** — above  
+- **ta** — below  
+- **pa** — harmony, water, synthesis  
+- **nu** — trace, edge, plant, blessing  
+- **ye** — animal, survival, sin  
+- **no** — relation, genitive, comparison  
+- **wa** — topic, purpose, discourse flow  
+
+These ten roots are the **minimum set** required to describe:
 
 - a world  
 - a self  
@@ -142,22 +160,17 @@ They are the smallest possible set that can still express:
 - time  
 - action  
 
-This is why Yeo-Language is not merely a language,  
-but a **philosophical system encoded in linguistic form**.
-
 ---
 
 # 6. Forbidden Concepts
 
-Yeo-Language forbids the creation of words that:
+Yeo-Language prohibits the creation of words that:
 
 - directly represent gods  
 - attempt to define unknowable entities  
 - surpass nu or ye in ontological scope  
 
 Human language must not “fix” what lies beyond human cognition.
-
-This rule is central to the language’s design.
 
 ---
 
@@ -169,12 +182,12 @@ Only two natural simplifications occur:
 1. **In frequent expressions, the part after *no* may be omitted**  
 2. **If priority makes the relationship unambiguous, *no* may be omitted**
 
-Examples:
+Examples (from the official vocabulary list):
 
 - *ye no o* → **yeo** (“human”)  
-- *nu no sa* → **nusa** (“ground”)  
+- *nu no sa* → **nusa** (“ground; roots and branches”)  
 
-These are not grammatical rules but **natural tendencies**.
+These are tendencies, not strict grammar.
 
 ---
 
