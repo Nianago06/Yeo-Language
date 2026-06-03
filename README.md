@@ -1,91 +1,42 @@
 # Yeo-Language (十の字 / Tō-no-ji)
 
-**Yeo-Language** is an experimental minimalist constructed language designed to explore the limits of human communication.  
-Its core principle is radical simplicity: **the entire language consists of only 10 words**.
+**Yeo-Language** is an experimental minimalist constructed language built on a radical idea:  
+**the entire language consists of only ten words.**
 
-The name *Yeo* comes from two morphemes:  
+It is designed not as a full communicative system, but as a tool for:
+
+- reorganizing thought  
+- simplifying expression  
+- shifting perspective  
+- enabling minimal and accessible communication  
+
+Meaning in Yeo-Language emerges through context, gesture, and shared understanding rather than vocabulary size.  
+The name *Yeo* comes from:
+
 - **ye** — “animal / living being”  
 - **o** — “thought / self”  
-Together, *yeo* expresses “human”.
 
-Yeo-Language is not intended as a full communicative system, but as a tool for **thought organization**, **perspective-shifting**, and **accessible minimal communication**.
-
----
-
-## 🌱 Concept
-
-Yeo-Language was created with the goal of becoming **“the simplest possible language”** while still allowing meaningful expression through:
-
-- Context  
-- Gesture  
-- Intonation  
-- Shared situational understanding  
-
-Like Toki Pona, it aims to provide a **new cognitive lens**, but with an even stricter vocabulary limit.
-
-The number **10** was chosen as a symbolic threshold:  
-- 8 words was theoretically possible,  
-- but 10 allows a minimal yet functional range of expression.
+Together, *yeo* expresses “a being with thought” — a human.
 
 ---
 
-## 🔤 Vocabulary (10 Words)
+## 🌱 Purpose
 
-| Word | Meaning (Core) |
-|------|----------------|
-| **o** | I / thought / self |
-| **sa** | near / this |
-| **a** | far / that |
-| **pa** | (context-dependent) |
-| **tu** | (context-dependent) |
-| **ta** | (context-dependent) |
-| **ye** | animal / living being |
-| **nu** | (context-dependent) |
-| **no** | (context-dependent) |
-| **wa** | (context-dependent) |
+Yeo-Language aims to be **“the simplest possible language”** while still allowing meaningful expression.  
+It is not intended for daily conversation or native acquisition.  
+Instead, it supports:
 
-> Note:  
-> Most words have **broad, flexible meanings**.  
-> Their interpretation depends heavily on context, gesture, and situation.
+- cognitive reflection  
+- creative constraint-based expression  
+- simple communication in limited contexts  
+- individuals who find language acquisition difficult  
+
+The extreme reduction of vocabulary highlights how humans construct meaning beyond words.
 
 ---
 
-## 🧩 Grammar Overview
+## 🔤 Vocabulary
 
-### **Word Order**
-Yeo-Language uses **SVO** word order.
+Yeo-Language contains exactly **10 words**:
 
-### **Nouns and Verbs**
-There is **no morphological distinction** between nouns and verbs.  
-Their role is determined **only by position** in the sentence.
-
-### **Tense**
-Tense can be marked with suffixes:
-
-- **-o** (past)  
-- **-sa** (present)  
-- **-a** (future)
-
-However, these are **rarely used** because they often create ambiguity.
-
-### **Negation**
-Negation is formed by adding the prefix **ye-** to the auxiliary verb.
-
-### **Demonstratives**
-- **sa** — this / near  
-- **a** — that / far  
-
-### **Contextual Meaning**
-Because the vocabulary is extremely small, meaning is constructed through:
-
-- physical gesture  
-- facial expression  
-- shared context  
-- tone  
-- situational cues  
-
----
-
-## 🗣️ Example Sentence
-
-### 1. **o o yeo**  
+o, sa, a, pa, tu, ta, ye, nu, no, wa
