@@ -1,317 +1,277 @@
-# Grammar of Yeo-Language (十の字 / Nosa / Tonoji)
+# Grammar of Yeo-Language (grammar.md)
 
-Yeo-Language expresses meaning through ten roots, particles, and priority order.  
-Pitch distinguishes meaning, but pitch notation is not shown here.
+Yeo-Language (Nosa / Tonoji) is an extremely minimal constructed language  
+built from only ten root words and the smallest possible set of syntactic rules.
 
-The grammar is built on:
-
-- topic–comment structure  
-- relational particles  
-- noun/verb articles  
-- minimal derivation  
-- three ontological axes  
+Its grammar is designed with the goal of being “as simple as possible.”
 
 ---
 
-# 1. Sentence Structure
+# 1. Word Order (SVO)
 
-Yeo-Language uses a **topic–comment** structure:
+Yeo-Language uses **SVO (Subject–Verb–Object)** word order.
 
-[Topic] wa [Comment]
+Reason:  
+**When noun phrases appear consecutively, ambiguity arises.  
+Placing the verb in the center prevents this ambiguity and clarifies structure.**
 
-Example pattern:
-
-A wa B
-
-The comment may be:
-
-- a **nominal predicate** (A is B)  
-- a **verbal predicate** (A does B)
-
----
-
-# 2. Nominal Predicate  
-### **A o B = “A is B”**
-
-This is the fundamental copular structure of the language.
-
-- **A** = topic (noun phrase)  
-- **o** = noun article  
-- **B** = noun predicate  
-
-Examples:
-
-yeo wa o nu
-“The human is plant/nu.”
-
-o-yeo wa o-ye
-“A human is an animal.”
-
-o-sa wa o-yeo
-“We are humans.”
-
-# Grammar of Yeo-Language (十の字 / Nosa / Tonoji)
-
-Yeo-Language expresses meaning through ten roots, relational particles,  
-and a minimal predicate structure.  
-Pitch distinguishes meaning, but pitch notation is not shown here.
-
----
-
-# 1. Fundamental Sentence Patterns
-
-Yeo-Language has **two** core sentence constructions:
-
-## 1.1 Nominal Predicate  
-### **A o B = “A is B”**
-
-- **A** = subject  
-- **o** = noun article  
-- **B** = predicate noun  
-
-Examples:
-yeo o ye
-“The human is an animal.”
-
-o-sa o yeo
-“We are humans.”
-
-This replaces “A は B です”.
-
----
-
-## 1.2 Verbal Predicate  
-### **A sa B = “A does B”**
-
-- **A** = subject  
-- **sa** = verb article  
-- **B** = verb root or verbal concept  
-
-Examples:
+Example:
 yeo sa tano
-“The human speaks / grasps / makes small.”
-
-yeo sa nupa
-“The human drinks water.”
-
-This replaces “A は B する”.
+“Humans speak / grasp / make small.”
 
 ---
 
-# 2. Particles
+# 2. Basic Sentence Types
 
-## 2.1 **o** — noun article / past  
-Marks the following word as a **noun**.  
-Also expresses **past / completion**.
+There are only **two** sentence patterns in Yeo-Language.
 
-## 2.2 **sa** — verb article / present  
-Marks the following word as a **verb**.  
-Also expresses **present / continuous**.
+---
 
-## 2.3 **a** — future  
-Marks future or unrealized action.
+## ■ A o B  
+A is B (nominal sentence)
 
-## 2.4 **ye** — negation  
-Negates the verb or clause.
+Example:
+yeo o ye
+“Humans are animals.”
 
-## 2.5 **no** — relational particle  
-Expresses:
+---
+
+## ■ A sa B  
+A does B (verbal sentence)
+
+Example:
+yeo sa tano
+“Humans speak / grasp / make small.”
+
+---
+
+# 3. Particles
+
+---
+
+## ■ wa — Topic / Politeness
+
+Placed at the beginning of a sentence to mark the topic  
+and add politeness.
+
+Example:
+wa sa o tuno
+“You are strong (polite).”
+
+wa can also function as a sentence connector:
+
+- **waa**: sequential (“and then”)  
+- **waye-**: contrastive (“however”)
+
+---
+
+## ■ no — Central relational particle
+
+no is the core relational element of the language.  
+It connects words and creates grammatical relations.
+
+Functions include:
+
 - genitive  
-- comparison  
-- parallel  
 - selection  
-- addition  
-- limitation  
-- sequence  
-- number formation  
-
-## 2.6 **wa** — conjunction only  
-**wa is NOT a topic marker.**  
-It is used **only** to connect clauses.
-
-Functions:
-- sequential connection  
-- purpose  
-- mild continuation  
-
-Related forms:
-- **waye-** — contrast (“but”)  
-- **waa** — sequential (“and then”)
+- parallel / comparison  
+- restriction  
+- numeral structure  
+- basis for logical connectors (noo / noano)
 
 Example:
-yeo sa nupa wa yeo sa tano
-“The human drinks water and then speaks.”
+ye no o → yeo (“life + self = human”)
+
+The following usages are intended for simple conversation and are rarely used in everyday speech in this language.
 
 ---
 
-# 3. Priority Order (語順の優先順位)
-
-Priority determines **word order inside compounds**.
-
-### Cognitive axis  
-o > sa > a
-
-### Structural axis  
-tu > pa > ta
-
-### Existential axis  
-nu > ye
-
-Auxiliary particles (**no**, **wa**) have no priority class.
-
-Higher priority appears earlier.
-
-Examples:
-- **ye no o → yeo**  
-- **nu no sa → nusa**
-
----
-
-# 4. The Particle **no** (Details)
-
-### 4.1 Genitive  
-X no Y = Y belonging to X
-
-Examples:
-- Sa-no-tu — “hand”  
-- O-no-ye — “meat”
-
-### 4.2 Comparison / Parallel  
-- X no-o~Y  
-- V no V
-
-### 4.3 Object / Duration  
-- V no S
-
-### 4.4 Conjunctions  
-- No~no — sequential  
-- No-(oa)-no~ — selection  
-- Noo-no~ — grouping  
-- Nosa-no~ — addition  
-- Noa-no~ — limitation / sequence
-
-### 4.5 Numerals  
-- Oo-no — ten  
-- Oo-no-no — hundred
-
----
-
-# 5. Minimal Derivation Rules
-
-Only two natural simplifications exist:
-
-### 5.1 Omission after *no*  
-In frequent expressions, the part after *no* may be omitted.
-
-### 5.2 Omission of *no*  
-If priority makes the relationship unambiguous, *no* may be omitted.
-
-Examples:
-- *ye no o* → **yeo**  
-- *nu no sa* → **nusa**
-
-No other derivational rules exist.
-
----
-
-# 6. Nouns
-
-Nouns are formed by:
-
-- **o** (noun article)  
-- compounding with **no**  
-- priority-based compounding  
-
-Examples:
-- O-sa — “we”  
-- O-no-yeo — “bone”  
-- Nusa — “ground”
-
----
-
-# 7. Verbs
-
-Verbs are formed by:
-
-- **sa** (verb article)  
-- verb roots (tano, tuye, tunusa, etc.)  
-- particles (a, o, ye)
-
-### 7.1 Tense  
-- **o** — past  
-- **sa** — present  
-- **a** — future  
-
-### 7.2 Negation  
-- **ye**
+## ■ noo — Addition (and / also)
 
 Example:
-yeo sa nupa ye
-“The human does not drink water.”
-
-
----
-
-# 8. Units
-
-- **sa** — arm length  
-- **tasa / tano-sa** — wrist to fingertip  
+yeo o ye noo yeo o tuno
+“Humans are animals, and also strong.”
 
 ---
 
-# 9. Three Axes in Grammar
+## ■ noano — Limitation / sequential relation
 
-Grammar reflects the three ontological axes:
-
-### Cognitive  
-o – sa – a
-
-### Structural  
-tu – pa – ta
-
-### Existential  
-nu – ye
-
-These axes determine:
-
-- compounding  
-- metaphor  
-- semantic extension  
-- relational interpretation  
+Example:
+yeo o ye noano yeo o tuno
+“Humans are animals, and therefore strong.”
 
 ---
 
-# 10. Example Sentence Patterns
+# 4. Nature of Root Words
 
-### 10.1 A is B  
-A o B
+Root words in Yeo-Language do **not** distinguish  
+between noun, verb, or adjective.
 
-### 10.2 A does B  
-A sa B
+Their function is determined by position and combination.
 
-### 10.3 A is not B  
-A o-ye B
+Examples:
+- **tuno** (strong)  
+- **tano** (speak / grasp / make small)  
+- **yeo** (human)  
+- **nusa** (ground)
 
-### 10.4 A will do B  
-A sa-a B
-
-### 10.5 A does not do B  
-A sa-ye B
-
+Word formation is primarily done through **no-based combinations**.
 
 ---
 
-# Summary
+# 5. Negation
 
-Yeo-Language grammar is defined by:
+Negation is expressed by placing **ye** before the auxiliary verb.
 
-- **A o B** = A is B  
-- **A sa B** = A does B  
-- **wa is a conjunction only**  
-- relational particle **no**  
-- noun/verb articles **o** and **sa**  
-- minimal derivation  
-- priority order  
-- three ontological axes  
+Example:
+ye sa tano
+“(A) does not speak / does not grasp / does not make small.”
 
-Meaning emerges from **relation**, not from large vocabulary.
+---
+
+# 6. Tense
+
+Tense is normally inferred from context.  
+When needed, the following suffixes may be used:
+
+- **-o**: present  
+- **-sa**: past  
+- **-a**: future  
+
+These are optional and may introduce ambiguity.
+
+**Scope of tense suffixes:**
+
+- **Attached to an auxiliary verb**  
+  → **changes the tense of the entire sentence**
+
+- **Attached to a noun phrase or verb phrase**  
+  → **changes only that specific word or phrase**
+
+---
+
+# 7. Meaning Determined by Context
+
+Because the vocabulary is extremely small,  
+**context, situation, and speaker intention** determine meaning.
+
+Example:
+yeo sa tano
+→ “Humans speak”
+→ “Humans grasp”
+→ “Humans make small”
+
+---
+
+# 8. Omission
+
+Subjects, objects, and particles are often omitted.
+
+Example:
+tuno
+“strong”
+“(you are) strong”
+“(this is) strong”
+
+---
+
+# 9. Sentence Linking (no-based Structures)
+
+Relations between words and clauses are expressed primarily through **no**.  
+no is not merely genitive—it is the core mechanism for logical structure.
+
+---
+
+## ■ S no S (noun + no + noun)  
+**Genitive (A’s B)**
+
+Example:
+yeo no nu
+“the trace of a human”
+
+---
+
+## ■ S no o~ (noun + no + o + noun)  
+**Parallel / comparison (A and B / A with B)**
+
+Example:
+yeo no o ye
+“humans and animals”
+
+---
+
+## ■ V no oS (verb + no + noun phrase)  
+**Object of an action**
+
+Because no forces the following word to match the grammatical role  
+of the preceding word, a noun must be marked with **o** to form a noun phrase.
+
+Example:
+tano no oyeo
+“to speak to a human / to grasp a human”
+
+---
+
+## ■ V no V (verb + no + verb)  
+**Parallel actions**
+
+Example:
+tano no tuno
+“to speak and be strong”
+
+---
+
+## ■ No~no (no + word/phrase + no)  
+**Particle-formation**
+
+no~no **turns the inserted word into a particle-like function**.  
+If nothing is inserted (i.e., **Nono**), it becomes **sequential (“and then”)**.
+
+Example:
+no yeo no
+“with regard to humans / treating humans as …”
+
+Nono:
+nono
+“and then”
+
+---
+
+## ■ Nooano  
+**Selection (A or B)**
+
+Example:
+yeo nooano ye
+“human or animal”
+
+---
+
+## ■ Noono  
+**Summation / conclusion (“in summary”, “therefore”, “as a result”)**
+
+Example:
+ye noono yeo
+“life and humans — in summary, all living beings”
+
+---
+
+## ■ Noo  
+**Addition (and / also)**
+
+Example:
+yeo o ye noo yeo o tuno
+“humans are animals, and also strong”
+
+---
+
+## ■ Noano  
+**Limitation / sequential relation**
+
+Example:
+yeo o ye noano yeo o tuno
+“humans are animals, and then strong”
+
+---
+
+All of these structures are **derived from no**,  
+which forms the logical backbone of Yeo-Language.
