@@ -89,34 +89,3 @@ Because the vocabulary is extremely small, meaning is constructed through:
 ## 🗣️ Example Sentence
 
 ### 1. **o o yeo**  
-(*yeo* = ye + o = “animal with thought” → human)
-
----
-
-## 🎯 Intended Use
-
-Yeo-Language is **not** designed for:
-
-- daily conversation  
-- native acquisition  
-- complex communication  
-
-Instead, it is intended for:
-
-- **thought organization**  
-- **minimal communication**  
-- **language accessibility**  
-- **creative constraint-based expression**  
-- **philosophical reflection on meaning**  
-
-Its strict vocabulary limit forces the speaker to rely on **human intuition**, **context**, and **nonverbal communication**, highlighting the boundaries of linguistic expression.
-
----
-
-## 📄 License
-(Choose one, e.g. CC BY-SA 4.0)
-
----
-
-## 🔗 External Links
-(To be added: GitHub pages, Migdal Conlang Wiki page, PDF grammar, etc.)
