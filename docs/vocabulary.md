@@ -208,9 +208,9 @@ Below is a more complete list of the conceptual fields each word covers.
 
 | Word | Group | Core Meaning | Priority |
 |------|--------|--------------|----------|
-| o | Subjective cognition | self, thought | 4 |
-| sa | Subjective cognition | near, shared | 4 |
-| a | Subjective cognition | far, unknown | 4 |
+| o | Subjective cognition | self, thought | 3 |
+| sa | Subjective cognition | near, shared | 3 |
+| a | Subjective cognition | far, unknown | 3 |
 | pa | World classification | harmony, water | 3 |
 | tu | World classification | above | 1 |
 | ta | World classification | below | 1 |
