@@ -7,6 +7,21 @@ built from **only ten root words**.
 It is designed to function without complex grammar or large vocabulary,  
 with the goal of creating **the simplest possible language**.
 
+The initial draft of this language was created by **Nianago06 around 2023**.
+
+---
+
+# Name Origins
+
+- **Yeo-Language**  
+  “Yeo” means “human”.
+
+- **Tonoji (十の字)**  
+  A Japanese term meaning “ten characters”.
+
+- **Nosa**  
+  A native term meaning “language”.
+
 ---
 
 # 1. Purpose of the Language
@@ -15,7 +30,7 @@ Yeo-Language is created with the following goals:
 
 - **To create the simplest possible language**
 - **To provide the shortest path toward multilingual ability**
-  - Reducing the cognitive load of language learning
+  - Minimizing the cognitive load of language learning
 - **To help organize thought**
   - Reducing concepts to ten roots clarifies mental structure
 - **To offer new perspectives through the use of a non-native language**
@@ -48,8 +63,6 @@ For details, see **/lore**.
 
 Yeo-Language consists of the following ten roots:
 
-o, sa, a, pa, tu, ta, nu, ye, no, wa
-
 These were chosen simply because **ten** is a convenient number.  
 They are not intended to represent the “smallest structure of the world.”
 
@@ -79,8 +92,10 @@ yeo sa tano
 
 # 5. The Role of *wa* (Important)
 
-**wa is a particle that marks the subject politely or clearly.**  
-It makes a sentence more formal or easier to understand.
+*wa* is a particle placed at the beginning of a sentence  
+to mark the subject politely or clearly.  
+It adds formality or emphasis, similar to saying  
+“You, respectfully, are …”.
 
 Example:
 sa o tuno
@@ -89,18 +104,19 @@ sa o tuno
 wa sa o tuno
 “You are strong.” (polite / clear)
 
-wa can also appear at the beginning of a sentence as a **conjunction**.
+*wa* can also appear at the beginning of a sentence as a **conjunction**.
 
 - **waa** — sequential (“and then”)  
 - **waye-** — contrast (“however”)  
 
-When connecting clauses *within* a single sentence,  
-the language uses **noano** for a smooth sequential relation.
+When connecting clauses *inside* a single sentence:
 
-Example:
+- **noo** = additive (“and also”)  
+- **noano** = sequential (“and then / therefore”)
+
+Example (sequential):
 yeo o ye noano yeo o tuno
-“Humans are animals, and therefore strong.”
-
+“Humans are animals, and then (therefore) strong.”
 
 ---
 
@@ -113,7 +129,7 @@ It expresses:
 - comparison  
 - parallel  
 - selection  
-- addition  
+- addition (noo)  
 - limitation  
 - sequential relation (noano)  
 - numeral formation  
