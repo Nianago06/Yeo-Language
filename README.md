@@ -42,7 +42,9 @@ Although Yeo-Language has its own script, it is primarily written using the Lati
 To avoid confusion, **affixes attached to words other than wa, no, and the markers o and sa used in nominal and verbal sentences are connected with a hyphen (-)**.
 
 Examples:
+
 | Form | Meaning |
+|-----------------|
 | **Tuye** | bird / to fly |
 | **o-Tuye** | a bird |
 | **sa-Tuye** | to fly
