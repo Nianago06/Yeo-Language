@@ -1,5 +1,6 @@
+# Yeo-Language
 **Yeo-Language (Japanese: 十の字 / Tō-no-ji)** is an auxiliary constructed language created by Nianago06, designed under the concept of “the simplest possible language.”  
-The language is entirely produced by Nianago06 alone; therefore, academic documentation, development records, linguistic consistency verification, and error checking remain insufficient, making it an incomplete language.
+The language is entirely produced by Nianago06 alone; therefore, academic documentation, development records, linguistic consistency verification, and error checking remain insufficient, making it an **incomplete language**.
 
 Yeo-Language is not intended to function as a native or fully expressive language.
 Instead, it is designed as an auxiliary language, and thus may rely on gestures or proper nouns from other languages to supplement meaning when necessary.
@@ -7,11 +8,14 @@ Instead, it is designed as an auxiliary language, and thus may rely on gestures 
 To maintain a functional language system with an extremely small number of roots, Yeo-Language is built upon an underlying fictional worldview and religious framework.
 However, these elements are never directly expressed within the language; they serve solely as conceptual foundations for word formation and semantic domains of the roots.
 
-Features
-The most notable feature of Yeo-Language is that its fundamental vocabulary (root lexemes) is limited to only ten items.
+---
+
+## Features
+
+The most notable feature of Yeo-Language is that its **fundamental vocabulary (root lexemes) is limited to only ten items**.
 This design originated from the creator’s question regarding Toki Pona—the world’s most minimal constructed language—specifically why “lizard” and “insect” exist as separate words.
 
-In Japanese and Classical Chinese, the character 蟲 historically unified such creatures under a single concept.
+In Japanese and Classical Chinese, the character **蟲** historically unified such creatures under a single concept.
 This insight led to the initiation of the Yeo-Language project.
 
 The language is created with the following purposes:
@@ -24,7 +28,10 @@ cross-cultural understanding
 
 assisting individuals who have difficulty acquiring language
 
-Name
+---
+
+## Name
+
 十の字 (Tō-no-ji): derived from the number of root words (ten).
 
 Yeo-Language: yeo means “person/human” in the language, following naming conventions similar to Ainu or Inuktitut.
