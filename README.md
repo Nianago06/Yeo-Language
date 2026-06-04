@@ -1,6 +1,6 @@
 # Yeo-Language (十の字)
 
-**Yeo-Language (Nosa, Tonoji, Japanese: 十の字)** is an auxiliary constructed language created by Nianago06 with the concept of being **“the simplest language”**, featuring the smallest number of root words.
+**Yeo-Language (Nosa, Tonoji, Japanese: 十の字)** is an auxiliary constructed language created by **Nianago06** with the concept of being **“the simplest language”**, featuring the smallest number of root words.
 Since this language is the sole creation of Nianago06, it is an unfinished language with insufficient academic documentation, details on the creation process, proof of linguistic consistency, and verification of flaws.
 
 This language was created strictly as an auxiliary language, not as a native language or a perfect language. Therefore, gestures and proper nouns from foreign languages may be used to supplement linguistic information.
