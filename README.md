@@ -10,7 +10,7 @@ However, these elements are never directly expressed within the language; they s
 
 ---
 
-## Features
+# Features
 
 The most notable feature of Yeo-Language is that its **fundamental vocabulary (root lexemes) is limited to only ten items**.
 This design originated from the creator’s question regarding Toki Pona—the world’s most minimal constructed language—specifically why “lizard” and “insect” exist as separate words.
@@ -20,75 +20,73 @@ This insight led to the initiation of the Yeo-Language project.
 
 The language is created with the following purposes:
 
-organizing thought
-
-simple communication
-
-cross-cultural understanding
+- organizing thought
+- simple communication
+- cross-cultural understanding
 
 assisting individuals who have difficulty acquiring language
 
 ---
 
-## Name
+# Name
 
-十の字 (Tō-no-ji): derived from the number of root words (ten).
+- 十の字 (Tō-no-ji): derived from the number of root words (ten).
+- Yeo-Language: yeo means “person/human” in the language, following naming conventions similar to Ainu or Inuktitut.
+- Nosa: derived from Noosa, meaning “one’s own language” within Yeo-Language.
 
-Yeo-Language: yeo means “person/human” in the language, following naming conventions similar to Ainu or Inuktitut.
+---
 
-Nosa: derived from Noosa, meaning “one’s own language” within Yeo-Language.
+# Writing System
 
-Writing System
 Although Yeo-Language has its own script, it is primarily written using the Latin alphabet.
-To avoid confusion, affixes attached to words other than wa, no, and the markers o and sa used in nominal and verbal sentences are connected with a hyphen (-).
+To avoid confusion, **affixes attached to words other than wa, no, and the markers o and sa used in nominal and verbal sentences are connected with a hyphen (-)**.
 
 Examples:
-
-Tuye (bird / to fly)
-
-o-Tuye (a bird)
-
-sa-Tuye (to fly)
-
-o-sa-Tuye (flight)
-
-Tuye-o (something that used to be a bird)
+| Form | Meaning |
+| **Tuye** | bird / to fly |
+| **o-Tuye** | a bird |
+| **sa-Tuye** | to fly
+| **o-sa-Tuye** | flight |
+| **Tuye-o** | something that used to be a bird |
 
 The default writing style uses lowercase letters, with capitalization only at the beginning of sentences.
-If a sentence begins with a prefix or article, that prefix remains lowercase, and the first independent word is capitalized instead.
+If a sentence begins with a prefix or article, that prefix remains lowercase, and **the first independent word is capitalized instead**.
 
-History
+---
+
+# History
+
 The initial draft of Yeo-Language was developed around 2023, and various derivative forms emerged and were revised through 2026.
 
 List of derivative languages:
+- Old Yeo-Language
+- Middle Yeo-Language (a pidgin of Yeo-Language, Japanese, and Toki Pona)
+   - Western dialect of Old Maichi
+   - Northern dialect of Old Maichi
+   - Seido language
+- Several unnamed variants (approx. 3) that modify phonemes while keeping the vocabulary unchanged
 
-Old Yeo-Language
+---
 
-Middle Yeo-Language (a pidgin of Yeo-Language, Japanese, and Toki Pona)
+# Phonology
 
-Western dialect of Old Maichi
-
-Northern dialect of Old Maichi
-
-Aotsuchi language
-
-Several unnamed variants (approx. 3) that modify phonemes while keeping the vocabulary unchanged
-
-Phonology
 Yeo-Language inherits its phonological system from early drafts.
-It contains 6 consonants and 5 vowels, totaling 11 phonemes.
-Additionally, there are three long vowels, bringing the total vowel inventory to eight.
+It contains **6 consonants and 5 vowels, totaling 11 phonemes**.
+Additionally, there are three long vowels, bringing the total vowel inventory to **8**.
 
-Consonants: p, w, t, n, s, j
+**Consonants**: p, w, t, n, s, j
 
-Vowels: a, e, i, o, u, aa, oo, ooo
+**Vowels**: a, e, i, o, u, aa, oo, ooo
 
-The language uses pitch accent, and accent placement indicates word boundaries.
+The language uses **pitch accent**, and accent placement indicates word boundaries.
 
-Grammar
-Yeo-Language follows an SVO (Subject–Verb–Object) word order.
+---
 
-In nominal sentences, o follows the subject.
+# Grammar
+
+Yeo-Language follows an **SVO (Subject–Verb–Object)** word order.
+
+In nominal sentences, **o** follows the subject.
 
 In verbal sentences, sa follows the subject.
 
